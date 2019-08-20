@@ -1,0 +1,63 @@
+\contentsline {chapter}{Declaration}{i}{chapter*.1}
+\contentsline {chapter}{Summary}{ii}{chapter*.2}
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.3}
+\contentsline {chapter}{Additional information for each specific chapter}{v}{chapter*.4}
+\contentsline {chapter}{Table of Contents}{vi}{chapter*.5}
+\contentsline {chapter}{List of Figures}{vii}{chapter*.6}
+\contentsline {chapter}{List of Tables}{viii}{chapter*.7}
+\contentsline {chapter}{\numberline {1}General Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Parasites and Ecosystem Function}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Model System}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Structure of this Thesis}{6}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Chapter 2}{6}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Chapter 3}{6}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Chapter 4}{7}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Chapter 5}{7}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Chapter 6}{8}{subsection.1.3.5}
+\contentsline {chapter}{\numberline {2}Warming can alter host behaviour to the same extent as behaviour-manipulating parasites}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Summary}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}Introduction}{9}{section.2.2}
+\contentsline {section}{\numberline {2.3}Method}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Physiological assays}{11}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Behavioural assays}{13}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Data analyses}{14}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Results}{15}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Physiological assays}{15}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Behavioural assays}{17}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.5}Discussion}{18}{section.2.5}
+\contentsline {chapter}{\numberline {3}Infection with behaviour-manipulating parasites enhances bioturbation by key aquatic detritivores}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Summary}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}Introduction}{21}{section.3.2}
+\contentsline {section}{\numberline {3.3}Method}{22}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Experimental design}{22}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Data analyses}{23}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Results}{24}{section.3.4}
+\contentsline {section}{\numberline {3.5}Discussion}{25}{section.3.5}
+\contentsline {chapter}{\numberline {4}The temperature-dependence and influence of prey mobility on multiple components of handling time}{27}{chapter.4}
+\contentsline {section}{\numberline {4.1}Summary}{27}{section.4.1}
+\contentsline {section}{\numberline {4.2}Introduction}{27}{section.4.2}
+\contentsline {section}{\numberline {4.3}Method}{29}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Organism collection and preparation}{29}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Trial apparatus}{29}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Experimental design}{30}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Data analyses}{31}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}Results}{31}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Components of handling time}{33}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Feeding preferences}{34}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Discussion}{36}{section.4.5}
+\contentsline {chapter}{\numberline {5}Individual and combined effects of warming, intraspecific competition and parasitic infection on detritus processing rates in situ.}{39}{chapter.5}
+\contentsline {section}{\numberline {5.1}Summary}{39}{section.5.1}
+\contentsline {section}{\numberline {5.2}Introduction}{39}{section.5.2}
+\contentsline {section}{\numberline {5.3}Method}{41}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Study site}{41}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Experiments}{41}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Data analyses}{44}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Results}{44}{section.5.4}
+\contentsline {section}{\numberline {5.5}Discussion}{49}{section.5.5}
+\contentsline {chapter}{\numberline {6}Discussion}{51}{chapter.6}
+\contentsline {section}{\numberline {6.1}The importance of parasites in the functioning of warming ecosystems}{51}{section.6.1}
+\contentsline {section}{\numberline {6.2}Future prospects}{53}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Community Dynamics}{53}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Ecosystem Stability}{54}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Concluding Remarks}{55}{section.6.3}
+\contentsfinish 

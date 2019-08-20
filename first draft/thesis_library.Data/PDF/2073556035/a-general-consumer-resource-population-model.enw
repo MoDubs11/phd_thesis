@@ -1,0 +1,17 @@
+%0 Journal Article
+%A Lafferty, Kevin D.
+%A DeLeo, Giulio
+%A Briggs, Cheryl J.
+%A Dobson, Andrew P.
+%A Gross, Thilo
+%A Kuris, Armand M.
+%T A general consumer-resource population model
+%D 2015
+%R 10.1126/science.aaa6224
+%J Science
+%P 854-857
+%V 349
+%N 6250
+%X There are many types of interactions between those that eat and those that are eaten. A multitude of theoretical equations describe these dynamics, from predator and prey to parasite and host. Lafferty et al. show that all forms of these relationships come down to fundamental consumer-resource interactions. Derived from the myriad complex interactions, a simple model can accommodate any such interaction, simplifying past models into a general theory of eat and be eaten.Science, this issue p. 854Food-web dynamics arise from predator-prey, parasite-host, and herbivore-plant interactions. Models for such interactions include up to three consumer activity states (questing, attacking, consuming) and up to four resource response states (susceptible, exposed, ingested, resistant). Articulating these states into a general model allows for dissecting, comparing, and deriving consumer-resource models. We specify this general model for 11 generic consumer strategies that group mathematically into predators, parasites, and micropredators and then derive conditions for consumer success, including a universal saturating functional response. We further show how to use this framework to create simple models with a common mathematical lineage and transparent assumptions. Underlying assumptions, missing elements, and composite parameters are revealed when classic consumer-resource models are derived from the general model.
+%U http://science.sciencemag.org/content/sci/349/6250/854.full.pdf
+

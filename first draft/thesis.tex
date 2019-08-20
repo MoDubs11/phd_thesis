@@ -1,0 +1,143 @@
+\documentclass[twoside,11pt]{mythesis} % twoside,singelsided,openright,versioninfo
+%\documentclass[12pt]{mythesis} %Change to single sided layout for softbound printing
+
+% Consider:
+% \newcommand{\ie}{i.\,e.}
+% \newcommand{\Ie}{I.\,e.}
+% \newcommand{\eg}{e.\,g.}
+% \newcommand{\Eg}{E.\,g.}
+\usepackage{fixltx2e}
+\usepackage{textcomp}
+%\usepackage{fullpage} %Messes up the chapter headers on each page
+\usepackage{pdflscape}
+\usepackage{float}
+\usepackage{latexsym}
+\usepackage{url}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{gensymb}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{array}
+\usepackage[version=3]{mhchem}
+\usepackage{ifthen}
+\usepackage{caption}
+\usepackage{hyperref}
+\usepackage{amsthm}
+\usepackage{amstext}
+\usepackage{enumerate}
+\usepackage{mathpazo}
+\usepackage{dcolumn}
+\usepackage{lineno}
+\usepackage{longtable}
+\usepackage{natbib}
+\pagenumbering{arabic}
+%\usepackage{tikz}
+
+
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{5} %number of subsections that are allowed up to subsubsubsubsubsection!
+
+ \usepackage{caption}
+\DeclareCaptionLabelFormat{}{#1}
+\usepackage{sidecap}
+%\captionsetup[table]{name={}}
+%\captionsetup[figure]{name={}}
+\sidecaptionvpos{figure}{c}
+
+\renewcommand*{\familydefault}{\sfdefault}
+\usepackage{helvet}
+
+\usepackage{geometry} %  I took this from Adams I think it is the right margins
+ \geometry{
+ a4paper,
+ total={210mm,297mm},
+ left=35mm, %Set to 35 for non pdf version (left/right margin automatically sorted if \documentclass is twosided)
+ right=20mm,
+ top=20mm,
+ bottom=20mm,
+ }
+
+
+
+% New columns for chapter 4
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+%% Symbols
+% unresolved:
+\newcommand{\ud}{\mathrm{d}}
+\newcommand{\drel}{\ensuremath{r_{\mathrm{rel}}}}
+\newcommand{\nmax}{\ensuremath{n_\mathrm{max}}}
+
+
+
+
+%Information for the title page
+%Some of this is hard coded in mythesis.cls but you can over write if you need to
+\title{The Impact of Parasites on Ecosystem Function}
+
+%
+\author{Maureen Anne Williams}
+%
+\month{\textsc{October}} \year{2018}
+\previousdegrees{B.S. Biology, University of Notre Dame, 2011\\
+                 M.Sc. Environmental Science, University College Dublin, 2012}
+\degreetitle{Doctor of Philosophy}
+\institution{Trinity College Dublin}
+\school{School of Natural Sciences}
+\department{Zoology}
+
+\begin{document}
+
+\maketitle
+
+\pagenumbering{roman}
+
+\input{declaration}
+\input{summary}
+\input{acknowledgements}
+%\allcontents
+
+\newpage
+
+%\allcontents
+\tableofcontents
+\listoffigures
+
+
+\listoftables
+
+
+\newpage
+
+
+\mainbody
+
+\pagenumbering{arabic}
+
+\input{introduction}
+\input{ch2}   
+%\input{ch3}   
+%\input{ch4}   
+%\input{ch5}
+\input{discussion}
+
+\newpage
+
+\formatbibliography 
+\bibliography{thesis_library_bibb}
+\bibliographystyle{sysbio}
+
+%\bibliographystye{chicago}
+
+%\input{appendix}
+
+%\formatbibliography 
+%\bibliographystyle{PLoS-Biology}
+%\bibliographystyle{sysbio} 
+%\bibliography{References}
+
+\end{document}

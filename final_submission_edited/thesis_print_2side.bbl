@@ -1,0 +1,1659 @@
+\begin{thebibliography}{249}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+
+\bibitem[{Abram et~al.(2017)Abram, Boivin, Moiroux, and Brodeur}]{abram2017}
+Abram, P.~K., G.~Boivin, J.~Moiroux, and J.~Brodeur. 2017. Behavioural effects
+  of temperature on ectothermic animals: unifying thermal physiology and
+  behavioural plasticity. Biological Reviews 92:1859--1876.
+\bibAnnoteFile{abram2017}
+
+\bibitem[{Adcock(1982)}]{adcock1982}
+Adcock, J. 1982. Energetics of a population of \emph{Asellus aquaticus}
+  ({C}rustacea, {I}sopoda): respiration and energy budgets. Freshwater Biology
+  12:257--269.
+\bibAnnoteFile{adcock1982}
+
+\bibitem[{Agatz and Brown(2014)}]{agatz2014}
+Agatz, A. and C.~D. Brown. 2014. Variability in feeding of \emph{Gammarus
+  pulex}: moving towards a more standardised feeding assay. Environmental
+  Sciences Europe 26:15--23.
+\bibAnnoteFile{agatz2014}
+
+\bibitem[{Aho et~al.(1982)Aho, Camp, and Esch}]{aho1982}
+Aho, J.~M., J.~W. Camp, and G.~W. Esch. 1982. Long-term studies on the
+  population biology of \emph{Diplostomulum scheuringi} in a thermally altered
+  reservoir. The Journal of Parasitology 68:695--708.
+\bibAnnoteFile{aho1982}
+
+\bibitem[{Allesina and Tang(2012)}]{allesina2012}
+Allesina, S. and S.~Tang. 2012. Stability criteria for complex ecosystems.
+  Nature 483:205--208.
+\bibAnnoteFile{allesina2012}
+
+\bibitem[{Altizer et~al.(2013)Altizer, Ostfeld, Johnson, Kutz, and
+  Harvell}]{altizer2013}
+Altizer, S., R.~S. Ostfeld, P.~T.~J. Johnson, S.~Kutz, and C.~D. Harvell. 2013.
+  Climate change and infectious diseases: from evidence to a predictive
+  framework. Science 341:514--519.
+\bibAnnoteFile{altizer2013}
+
+\bibitem[{Amarasekare and Coutinho(2014)}]{amarasekare2015}
+Amarasekare, P. and R.~M. Coutinho. 2014. Effects of temperature on
+  intraspecific competition in ectotherms. The American Naturalist 184:E50--65.
+\bibAnnoteFile{amarasekare2015}
+
+\bibitem[{Amundsen et~al.(2009)Amundsen, Lafferty, Knudsen, Primicerio,
+  Klemetsen, and Kuris}]{amundsen2009}
+Amundsen, P.~A., K.~D. Lafferty, R.~Knudsen, R.~Primicerio, A.~Klemetsen, and
+  A.~M. Kuris. 2009. Food web topology and parasites in the pelagic zone of a
+  subarctic lake. Journal of Animal Ecology 78:563--572.
+\bibAnnoteFile{amundsen2009}
+
+\bibitem[{Bailly et~al.(2017)Bailly, Cézilly, and Rigaud}]{bailly2017}
+Bailly, Y., F.~Cézilly, and T.~Rigaud. 2017. Stage-dependent behavioural
+  changes but early castration induced by the acanthocephalan parasite
+  \emph{Polymorphus minutus} in its \emph{Gammarus pulex} intermediate host.
+  Parasitology 145:260--268.
+\bibAnnoteFile{bailly2017}
+
+\bibitem[{Barabas et~al.(2016)Barabas, M, and Allesina}]{barabas2016}
+Barabas, G., J.~M.-S. M, and S.~Allesina. 2016. The effect of intra- and
+  interspecific competition on coexistence in multispecies communities. The
+  American Naturalist 188:E1--E12.
+\bibAnnoteFile{barabas2016}
+
+\bibitem[{Baranov et~al.(2016)Baranov, Lewandowski, and Krause}]{baranov2016}
+Baranov, V., J.~Lewandowski, and S.~Krause. 2016. Bioturbation enhances the
+  aerobic respiration of lake sediments in warming lakes. Biology Letters
+  12:20160448.
+\bibAnnoteFile{baranov2016}
+
+\bibitem[{Barber et~al.(2016)Barber, Berkhout, and Ismail}]{barber2016}
+Barber, I., B.~W. Berkhout, and Z.~Ismail. 2016. Thermal change and the
+  dynamics of multi-host parasite life cycles in aquatic ecosystems.
+  Integrative and Comparative Biology 56:561--572.
+\bibAnnoteFile{barber2016}
+
+\bibitem[{Barnes et~al.(2015)Barnes, Spey, Rohde, Brose, Dell, and
+  Woods}]{barnes2015}
+Barnes, A.~D., I.~Spey, L.~Rohde, U.~Brose, A.~I. Dell, and A.~Woods. 2015.
+  Individual behaviour mediates effects of warming on movement across a
+  fragmented landscape. Functional Ecology 29:1543--1552.
+\bibAnnoteFile{barnes2015}
+
+\bibitem[{Barton and Barton(2018)}]{barton2018}
+Barton, K. and M.~K. Barton. 2018. Package {‘MuMIn’} .
+\bibAnnoteFile{barton2018}
+
+\bibitem[{Bates et~al.(2015)Bates, Mächler, Bolker, and Walker}]{bates2015}
+Bates, D., M.~Mächler, B.~Bolker, and S.~Walker. 2015. Fitting linear
+  mixed-effects models using lme4. Journal of Statistical Software 67:48.
+\bibAnnoteFile{bates2015}
+
+\bibitem[{Bauer et~al.(2005)Bauer, Haine, Perrot-Minnot, and
+  Rigaud}]{bauer2005}
+Bauer, A., E.~R. Haine, M.~J. Perrot-Minnot, and T.~Rigaud. 2005. The
+  acanthocephalan parasite \emph{Polymorphus minutus} alters the geotactic and
+  clinging behaviours of two sympatric amphipod hosts: the native
+  \emph{Gammarus pulex} and the invasive \emph{Gammarus roeseli}. Journal of
+  Zoology 267:39--43.
+\bibAnnoteFile{bauer2005}
+
+\bibitem[{Benesh et~al.(2014)Benesh, Chubb, and Parker}]{benesh2014}
+Benesh, D.~P., J.~C. Chubb, and G.~A. Parker. 2014. The trophic vacuum and the
+  evolution of complex life cycles in trophically transmitted helminths.
+  Proceedings of the Royal Society B: Biological Sciences 281:20141462.
+\bibAnnoteFile{benesh2014}
+
+\bibitem[{Benesh et~al.(2005)Benesh, Duclos, and Nickol}]{benesh2005}
+Benesh, D.~P., L.~M. Duclos, and B.~B. Nickol. 2005. The behavioral response of
+  amphipods harboring \emph{Corynosoma constrictum} ({A}canthocephala) to
+  various components of light. Journal of Parasitology 91:731--736.
+\bibAnnoteFile{benesh2005}
+
+\bibitem[{Benesh et~al.(2008)Benesh, Valtonen, and Seppala}]{benesh2008}
+Benesh, D.~P., E.~T. Valtonen, and O.~Seppala. 2008. Multidimensionality and
+  intra-individual variation in host manipulation by an acanthocephalan.
+  Parasitology 135:617--26.
+\bibAnnoteFile{benesh2008}
+
+\bibitem[{Benfield(2006)}]{benfield2006}
+Benfield, E. 2006. Decomposition of leaf material book section~30,
+  Pages~711--720. Academic Press, San Diego.
+\bibAnnoteFile{benfield2006}
+
+\bibitem[{Bernot and Lamberti(2007)}]{bernot2007}
+Bernot, R.~J. and G.~A. Lamberti. 2007. Indirect effects of a parasite on a
+  benthic community: an experiment with trematodes, snails and periphyton.
+  Freshwater Biology 53:322--329.
+\bibAnnoteFile{bernot2007}
+
+\bibitem[{Bethel and Holmes(1973)}]{bethel1973}
+Bethel, W.~M. and J.~C. Holmes. 1973. Altered evasive behavior and responses to
+  light in amphipods harboring acanthocephalan cystacanths. The Journal of
+  Parasitology 59:945--956.
+\bibAnnoteFile{bethel1973}
+
+\bibitem[{Blasco-Costa and Poulin(2017)}]{blasco2017}
+Blasco-Costa, I. and R.~Poulin. 2017. Parasite life-cycle studies: a plea to
+  resurrect an old parasitological tradition. Journal of Helminthology
+  91:647--656.
+\bibAnnoteFile{blasco2017}
+
+\bibitem[{Boersma et~al.(2016)Boersma, Mathew, Niehoff, Schoo, Franco-Santos,
+  and Meunier}]{boersma2016}
+Boersma, M., K.~A. Mathew, B.~Niehoff, K.~L. Schoo, R.~M. Franco-Santos, and
+  C.~L. Meunier. 2016. Temperature driven changes in the diet preference of
+  omnivorous copepods: no more meat when it's hot? Ecology Letters 19:45--53.
+\bibAnnoteFile{boersma2016}
+
+\bibitem[{Brooks and Hoberg(2007)}]{brooks2007}
+Brooks, D.~R. and E.~P. Hoberg. 2007. How will global climate change affect
+  parasite-host assemblages? Trends in Parasitology 23:571--574.
+\bibAnnoteFile{brooks2007}
+
+\bibitem[{Brown and Pascoe(1989)}]{brown1989}
+Brown, A.~F. and D.~Pascoe. 1989. Parasitism and host sensitivity to cadmium:
+  an acanthocephalan infection of the fresh-water amphipod \emph{Gammarus
+  pulex}. Journal of Applied Ecology 26:473--487.
+\bibAnnoteFile{brown1989}
+
+\bibitem[{Brown et~al.(2004)Brown, Gillooly, Allen, Savage, and
+  West}]{brown2004}
+Brown, J.~H., J.~F. Gillooly, A.~P. Allen, V.~M. Savage, and G.~B. West. 2004.
+  Toward a metabolic theory of ecology. Ecology 85:1771--1789.
+\bibAnnoteFile{brown2004}
+
+\bibitem[{Buck and Ripple(2017)}]{buck2017}
+Buck, J.~C. and W.~J. Ripple. 2017. Infectious agents trigger trophic cascades.
+  Trends in Ecology and Evolution 32:681--694.
+\bibAnnoteFile{buck2017}
+
+\bibitem[{Buck et~al.(2018)Buck, Weinstein, and Young}]{buck2018}
+Buck, J.~C., S.~B. Weinstein, and H.~S. Young. 2018. Ecological and
+  evolutionary consequences of parasite avoidance. Trends in Ecology and
+  Evolution 33:619--632.
+\bibAnnoteFile{buck2018}
+
+\bibitem[{Bulnheim(1979)}]{bulnheim1979}
+Bulnheim, H.~P. 1979. Comparative studies on the physiological cology of five
+  euryhaline \emph{Gammarus} species. Oecologia 44:80--86.
+\bibAnnoteFile{bulnheim1979}
+
+\bibitem[{Bunke et~al.(2015)Bunke, Alexander, Dick, Hatcher, Paterson, and
+  Dunn}]{bunke2015}
+Bunke, M., M.~E. Alexander, J.~T. Dick, M.~J. Hatcher, R.~Paterson, and A.~M.
+  Dunn. 2015. Eaten alive: cannibalism is enhanced by parasites. Royal Society
+  Open Science 2:140369.
+\bibAnnoteFile{bunke2015}
+
+\bibitem[{Burnett(1949)}]{burnett1949}
+Burnett, T. 1949. The effect of temperature on an insect host-parasite
+  population. Ecology 30:113--134.
+\bibAnnoteFile{burnett1949}
+
+\bibitem[{Byers et~al.(2010)Byers, Smith, and Mallory}]{byers2010}
+Byers, T., A.~Smith, and M.~L. Mallory. 2010. Diet of black guillemots and
+  northern fulmars breeding beside a high arctic polynya. Polar Biology
+  33:457--467.
+\bibAnnoteFile{byers2010}
+
+\bibitem[{Cable et~al.(2017)Cable, Barber, Boag, Ellison, Morgan, Murray,
+  Pascoe, Sait, Wilson, and Booth}]{cable2017}
+Cable, J., I.~Barber, B.~Boag, A.~R. Ellison, E.~R. Morgan, K.~Murray, E.~L.
+  Pascoe, S.~M. Sait, A.~J. Wilson, and M.~Booth. 2017. Global change, parasite
+  transmission and disease control: lessons from ecology. Philosophical
+  Transactions of the Royal Society B 372:20160088.
+\bibAnnoteFile{cable2017}
+
+\bibitem[{Carlson et~al.(2017)Carlson, Burgio, Dougherty, Phillips, Bueno,
+  Clements, Castaldo, Dallas, Cizauskas, Cumming, Doña, Harris, Jovani,
+  Mironov, Muellerklein, Proctor, and Getz}]{carlson2017}
+Carlson, C.~J., K.~R. Burgio, E.~R. Dougherty, A.~J. Phillips, V.~M. Bueno,
+  C.~F. Clements, G.~Castaldo, T.~A. Dallas, C.~A. Cizauskas, G.~S. Cumming,
+  J.~Doña, N.~C. Harris, R.~Jovani, S.~Mironov, O.~C. Muellerklein, H.~C.
+  Proctor, and W.~M. Getz. 2017. Parasite biodiversity faces extinction and
+  redistribution in a changing climate. Science Advances 3:e1602422.
+\bibAnnoteFile{carlson2017}
+
+\bibitem[{Carpenter et~al.(2011)Carpenter, Stanley, and
+  Vander~Zanden}]{carpenter2011}
+Carpenter, S.~R., E.~H. Stanley, and M.~J. Vander~Zanden. 2011. State of the
+  world's freshwater ecosystems: physical, chemical, and biological changes.
+  Annual Review of Environment and Resources 36:75--99.
+\bibAnnoteFile{carpenter2011}
+
+\bibitem[{Chapin(1983)}]{chapin1983}
+Chapin, F.~S. 1983. Direct and indirect effects of temperature on arctic
+  plants. Polar Biology 2:47--52.
+\bibAnnoteFile{chapin1983}
+
+\bibitem[{Chen et~al.(2011)Chen, Shao, Liu, Lin, and Liu}]{chen2011}
+Chen, H.~W., K.~T. Shao, C.~W. Liu, W.~H. Lin, and W.~C. Liu. 2011. The
+  reduction of food web robustness by parasitism: fact and artefact.
+  International Journal for Parasitology 41:627--634.
+\bibAnnoteFile{chen2011}
+
+\bibitem[{Chen et~al.(2015)Chen, Grabner, Nachev, Shih, and Sures}]{chen2015}
+Chen, H.~Y., D.~S. Grabner, M.~Nachev, H.~H. Shih, and B.~Sures. 2015. Effects
+  of the acanthocephalan \emph{Polymorphus minutus} and the microsporidian
+  \emph{Dictyocoela duebenum} on energy reserves and stress response of cadmium
+  exposed \emph{Gammarus fossarum}. PeerJ 3:e1353.
+\bibAnnoteFile{chen2015}
+
+\bibitem[{Cohen et~al.(2017)Cohen, Venesky, Sauer, Civitello, McMahon, Roznik,
+  and Rohr}]{cohen2017}
+Cohen, J.~M., M.~D. Venesky, E.~L. Sauer, D.~J. Civitello, T.~A. McMahon, E.~A.
+  Roznik, and J.~R. Rohr. 2017. The thermal mismatch hypothesis explains host
+  susceptibility to an emerging infectious disease. Ecology Letters
+  20:184--193.
+\bibAnnoteFile{cohen2017}
+
+\bibitem[{Crawley(2012)}]{crawley2012}
+Crawley, M.~J. 2012. The R book. John Wiley & Sons.
+\bibAnnoteFile{crawley2012}
+
+\bibitem[{Croel and Kneitel(2011)}]{croel2011}
+Croel, R.~C. and J.~M. Kneitel. 2011. Ecosystem-level effects of bioturbation
+  by the tadpole shrimp \emph{Lepidurus packardi} in temporary pond mesocosms.
+  Hydrobiologia 665:169--181.
+\bibAnnoteFile{croel2011}
+
+\bibitem[{Cummins and Klug(1979)}]{cummins1979}
+Cummins, K.~W. and M.~J. Klug. 1979. Feeding ecology of stream invertebrates.
+  Annual Review of Ecology and Systematics 10:147--172.
+\bibAnnoteFile{cummins1979}
+
+\bibitem[{Cézilly et~al.(2013)Cézilly, Favrat, and
+  Perrot-Minnot}]{cezilly2013}
+Cézilly, F., A.~Favrat, and M.~J. Perrot-Minnot. 2013. Multidimensionality in
+  parasite-induced phenotypic alterations: ultimate versus proximate aspects.
+  Journal of Experimental Biology 216:27--35.
+\bibAnnoteFile{cezilly2013}
+
+\bibitem[{Cézilly et~al.(2000)Cézilly, Grégoire, and Bertin}]{cezilly2000}
+Cézilly, F., A.~Grégoire, and A.~Bertin. 2000. Conflict between co-occuring
+  manipulative parasites; an experimental study of the joint influence of two
+  acanthocephalan parasites on the behaviour of \emph{Gammarus pulex}.
+  Parasitology 120:625--630.
+\bibAnnoteFile{cezilly2000}
+
+\bibitem[{Dallas et~al.(2017)Dallas, Park, and Drake}]{dallas2017}
+Dallas, T., A.~W. Park, and J.~M. Drake. 2017. Predicting cryptic links in
+  host-parasite networks. PLoS Computional Biology 13:e1005557.
+\bibAnnoteFile{dallas2017}
+
+\bibitem[{De~Nadaï-Monoury et~al.(2013)De~Nadaï-Monoury, Lecerf, Canal,
+  Buisson, Laffaille, and Gilbert}]{denadai2013}
+De~Nadaï-Monoury, E., A.~Lecerf, J.~Canal, L.~Buisson, P.~Laffaille, and
+  F.~Gilbert. 2013. A cost-effective method to quantify biological surface
+  sediment reworking. Hydrobiologia 713:115--125.
+\bibAnnoteFile{denadai2013}
+
+\bibitem[{Dell et~al.(2011)Dell, Pawar, and Savage}]{dell2011}
+Dell, A.~I., S.~Pawar, and V.~M. Savage. 2011. Systematic variation in the
+  temperature dependence of physiological and ecological traits. Proceedings of
+  the National Academy of Sciences of the United States of America
+  108:10591--10596.
+\bibAnnoteFile{dell2011}
+
+\bibitem[{Dell et~al.(2014)Dell, Pawar, and Savage}]{dell2014}
+Dell, A.~I., S.~Pawar, and V.~M. Savage. 2014. Temperature dependence of
+  trophic interactions are driven by asymmetry of species responses and
+  foraging strategy. Journal of Animal Ecology 83:70--84.
+\bibAnnoteFile{dell2014}
+
+\bibitem[{DeLong et~al.(2018)DeLong, Hanley, Gibert, Puth, and
+  Post}]{delong2018}
+DeLong, J.~P., T.~C. Hanley, J.~P. Gibert, L.~M. Puth, and D.~M. Post. 2018.
+  Life history traits and functional processes generate multiple pathways to
+  ecological stability. Ecology 99:5--12.
+\bibAnnoteFile{delong2018}
+
+\bibitem[{Demandt et~al.(2018)Demandt, Saus, Kurvers, Krause, Kurtz, and
+  Scharsack}]{demandt2018}
+Demandt, N., B.~Saus, R.~Kurvers, J.~Krause, J.~Kurtz, and J.~P. Scharsack.
+  2018. Parasite-infected sticklebacks increase the risk-taking behaviour of
+  uninfected group members. Proceedings of the Royal Society B: Biological
+  Sciences 285.
+\bibAnnoteFile{demandt2018}
+
+\bibitem[{Dezfuli and Giari(1999)}]{dezfuli1999}
+Dezfuli, B.~S. and L.~Giari. 1999. Amphipod intermediate host of
+  \emph{Polymorphus minutus} ({A}canthocephala), parasite of water birds, with
+  notes on ultrastructure of host-parasite interface. Folia Parasitologica
+  46:117--122.
+\bibAnnoteFile{dezfuli1999}
+
+\bibitem[{Dezfuli et~al.(2001)Dezfuli, Giari, and Poulin}]{dezfuli2001}
+Dezfuli, B.~S., L.~Giari, and R.~Poulin. 2001. Costs of intraspecific and
+  interspecific host sharing in acanthocephalan cystacanths. Parasitology
+  122:483--489.
+\bibAnnoteFile{dezfuli2001}
+
+\bibitem[{Dick et~al.(2010)Dick, Armstrong, Clarke, Farnsworth, Hatcher, Ennis,
+  Kelly, and Dunn}]{dick2010}
+Dick, J.~T., M.~Armstrong, H.~C. Clarke, K.~D. Farnsworth, M.~J. Hatcher,
+  M.~Ennis, A.~Kelly, and A.~M. Dunn. 2010. Parasitism may enhance rather than
+  reduce the predatory impact of an invader. Biology Letters 6:636--638.
+\bibAnnoteFile{dick2010}
+
+\bibitem[{Dick et~al.(1993)Dick, Montgomery, and Elwood}]{dick1993}
+Dick, J. T.~A., I.~Montgomery, and R.~W. Elwood. 1993. Replacement of the
+  indigenous amphipod \emph{Gammarus duebeni celticus} by the introduced
+  \emph{G. pulex}: differential cannibalism and mutual predation. Journal of
+  Animal Ecology 62:79--88.
+\bibAnnoteFile{dick1993}
+
+\bibitem[{Dobson et~al.(2008)Dobson, Lafferty, Kuris, Hechinger, and
+  Jetz}]{dobson2008}
+Dobson, A., K.~D. Lafferty, A.~M. Kuris, R.~F. Hechinger, and W.~Jetz. 2008.
+  Homage to linnaeus: how many parasites? how many hosts? Proceedings of the
+  Royal Society B: Biological Sciences 105:11482--11489.
+\bibAnnoteFile{dobson2008}
+
+\bibitem[{Donohue et~al.(2016)Donohue, Hillebrand, Montoya, Petchey, Pimm,
+  Fowler, Healy, Jackson, Lurgi, McClean, O'Connor, O'Gorman, and
+  Yang}]{donohue2016}
+Donohue, I., H.~Hillebrand, J.~M. Montoya, O.~L. Petchey, S.~L. Pimm, M.~S.
+  Fowler, K.~Healy, A.~L. Jackson, M.~Lurgi, D.~McClean, N.~E. O'Connor, E.~J.
+  O'Gorman, and Q.~Yang. 2016. Navigating the complexity of ecological
+  stability. Ecology Letters 19:1172--1185.
+\bibAnnoteFile{donohue2016}
+
+\bibitem[{Donohue et~al.(2017)Donohue, Petchey, Kéfi, Genin, Jackson, Yang,
+  and O'Connor}]{donohue2017}
+Donohue, I., O.~L. Petchey, S.~Kéfi, A.~Genin, A.~L. Jackson, Q.~Yang, and
+  N.~E. O'Connor. 2017. Loss of predator species, not intermediate consumers,
+  triggers rapid and dramatic extinction cascades. Global Change Biology
+  23:2962–2972.
+\bibAnnoteFile{donohue2017}
+
+\bibitem[{Donohue et~al.(2013)Donohue, Petchey, Montoya, Jackson, McNally,
+  Viana, Healy, Lurgi, O'Connor, and Emmerson}]{donohue2013}
+Donohue, I., O.~L. Petchey, J.~M. Montoya, A.~L. Jackson, L.~McNally, M.~Viana,
+  K.~Healy, M.~Lurgi, N.~E. O'Connor, and M.~C. Emmerson. 2013. On the
+  dimensionality of ecological stability. Ecology Letters 16:421--429.
+\bibAnnoteFile{donohue2013}
+
+\bibitem[{Dunn and Dick(1998)}]{dunn1998}
+Dunn, A.~M. and J.~T.~A. Dick. 1998. Parasitism and epibiosis in native and
+  non-native gammarids in freshwater in {I}reland. Ecography 21:593--598.
+\bibAnnoteFile{dunn1998}
+
+\bibitem[{Dunne et~al.(2013)Dunne, Lafferty, Dobson, Hechinger, Kuris,
+  Martinez, McLaughlin, Mouritsen, Poulin, Reise, Stouffer, Thieltges,
+  Williams, and Zander}]{dunne2013}
+Dunne, J.~A., K.~D. Lafferty, A.~P. Dobson, R.~F. Hechinger, A.~M. Kuris, N.~D.
+  Martinez, J.~P. McLaughlin, K.~N. Mouritsen, R.~Poulin, K.~Reise, D.~B.
+  Stouffer, D.~W. Thieltges, R.~J. Williams, and C.~D. Zander. 2013. Parasites
+  affect food web structure primarily through increased diversity and
+  complexity. PLoS Biology 11:e1001579.
+\bibAnnoteFile{dunne2013}
+
+\bibitem[{Englund et~al.(2011)Englund, Öhlund, Hein, and Diehl}]{enlund2011}
+Englund, G., G.~Öhlund, C.~L. Hein, and S.~Diehl. 2011. Temperature dependence
+  of the functional response. Ecology Letters 14:914--921.
+\bibAnnoteFile{enlund2011}
+
+\bibitem[{Ferrari et~al.(2015)Ferrari, Munday, Rummer, McCormick, Corkill,
+  Watson, Allan, Meekan, and Chivers}]{ferrari2015}
+Ferrari, M.~C., P.~L. Munday, J.~L. Rummer, M.~I. McCormick, K.~Corkill, S.~A.
+  Watson, B.~J. Allan, M.~G. Meekan, and D.~P. Chivers. 2015. Interactive
+  effects of ocean acidification and rising sea temperatures alter predation
+  rate and predator selectivity in reef fish communities. Global Change Biology
+  21:1848--1855.
+\bibAnnoteFile{ferrari2015}
+
+\bibitem[{Fielding et~al.(2003)Fielding, MacNeil, Dick, Elwood, Riddell, and
+  Dunn}]{fielding2003}
+Fielding, N.~J., C.~MacNeil, J.~T.~A. Dick, R.~W. Elwood, G.~E. Riddell, and
+  A.~M. Dunn. 2003. Effects of the acanthocephalan parasite
+  \emph{Echinorhynchus truttae} on the feeding ecology of \emph{Gammarus pulex}
+  ({C}rustacea: {A}mphipoda). Journal of Zoology 261:321--325.
+\bibAnnoteFile{fielding2003}
+
+\bibitem[{Frick et~al.(2015)Frick, Puechmaille, Hoyt, Nickel, Langwig, Foster,
+  Barlow, Bartonička, Feller, Haarsma, Herzog, Horáček, Kooij, Mulkens,
+  Petrov, Reynolds, Rodrigues, Stihler, Turner, and Kilpatrick}]{frick2015}
+Frick, W.~F., S.~J. Puechmaille, J.~R. Hoyt, B.~A. Nickel, K.~E. Langwig, J.~T.
+  Foster, K.~E. Barlow, T.~Bartonička, D.~Feller, A.-J. Haarsma, C.~Herzog,
+  I.~Horáček, J.~Kooij, B.~Mulkens, B.~Petrov, R.~Reynolds, L.~Rodrigues,
+  C.~W. Stihler, G.~G. Turner, and A.~M. Kilpatrick. 2015. Disease alters
+  macroecological patterns of {N}orth {A}merican bats. Global Ecology and
+  Biogeography 24:741--749.
+\bibAnnoteFile{frick2015}
+
+\bibitem[{Galaktionov(2017)}]{galaktionov2017}
+Galaktionov, K.~V. 2017. Patterns and processes influencing helminth parasites
+  of arctic coastal communities during climate change. Journal of Helminthology
+  91:387--408.
+\bibAnnoteFile{galaktionov2017}
+
+\bibitem[{Galic and Forbes(2017)}]{galic2017}
+Galic, N. and V.~E. Forbes. 2017. Effects of temperature on the performance of
+  a freshwater amphipod. Hydrobiologia 785:35--46.
+\bibAnnoteFile{galic2017}
+
+\bibitem[{Gamfeldt and Roger(2017)}]{gamfeldt2017}
+Gamfeldt, L. and F.~Roger. 2017. Revisiting the biodiversity-ecosystem
+  multifunctionality relationship. Nature Ecology and Evolution 1:168.
+\bibAnnoteFile{gamfeldt2017}
+
+\bibitem[{Gehman et~al.(2018)Gehman, Hall, and Byers}]{gehman2018}
+Gehman, A.-L.~M., R.~J. Hall, and J.~E. Byers. 2018. Host and parasite thermal
+  ecology jointly determine the effect of climate warming on epidemic dynamics.
+  Proceedings of the National Academy of Sciences of the United States of
+  America 115:744--749.
+\bibAnnoteFile{gehman2018}
+
+\bibitem[{Gnaiger(1983)}]{gnaiger1983}
+Gnaiger, E. 1983. Heat dissipation and energetic efficiency in animal
+  anoxibiosis - economy contra power. Journal of Experimental Zoology
+  228:471--490.
+\bibAnnoteFile{gnaiger1983}
+
+\bibitem[{Goedknegt et~al.(2015)Goedknegt, Welsh, Drent, and
+  Thieltges}]{goedknegt2015}
+Goedknegt, M.~A., J.~E. Welsh, J.~Drent, and D.~W. Thieltges. 2015. Climate
+  change and parasite transmission: how temperature affects parasite
+  infectivity via predation on infective stages. Ecosphere 6:96.
+\bibAnnoteFile{goedknegt2015}
+
+\bibitem[{Gonzalez et~al.(2010)Gonzalez, Wang, Strutz, Gonzalez-Salazar,
+  Sanchez-Cordero, and Sarkar}]{gonzalez2010}
+Gonzalez, C., O.~Wang, S.~E. Strutz, C.~Gonzalez-Salazar, V.~Sanchez-Cordero,
+  and S.~Sarkar. 2010. Climate change and risk of leishmaniasis in {N}orth
+  {A}merica: predictions from ecological niche models of vector and reservoir
+  species. PLoS Neglected Tropical Diseases 4:e585.
+\bibAnnoteFile{gonzalez2010}
+
+\bibitem[{Gordon et~al.(2018)Gordon, Neto-Cerejeira, Furey, and
+  O’Gorman}]{gordon2018}
+Gordon, T. A.~C., J.~Neto-Cerejeira, P.~C. Furey, and E.~J. O’Gorman. 2018.
+  Changes in feeding selectivity of freshwater invertebrates across a natural
+  thermal gradient. Current Zoology 64:231--242.
+\bibAnnoteFile{gordon2018}
+
+\bibitem[{Graça et~al.(1993)Graça, Maltby, and Calow}]{graca1993}
+Graça, M. A.~S., L.~Maltby, and P.~Calow. 1993. Importance of fungi in the
+  diet of \emph{Gammarus pulex} and \emph{Asellus aquaticus} 2: effects on
+  growth, reproduction and physiology. Oecologia 96:304--309.
+\bibAnnoteFile{graca1993}
+
+\bibitem[{Grabner(2017)}]{grabner2017}
+Grabner, D.~S. 2017. Hidden diversity: parasites of stream arthropods.
+  Freshwater Biology 62:52--64.
+\bibAnnoteFile{grabner2017}
+
+\bibitem[{Grant and Daborn(1994)}]{grant1994}
+Grant, J. and G.~Daborn. 1994. The effects of bioturbation on sediment
+  transport on an intertidal mudflat. Netherlands Journal of Sea Research
+  32:63--72.
+\bibAnnoteFile{grant1994}
+
+\bibitem[{Grime(1997)}]{grime1997}
+Grime, J.~P. 1997. Biodiversity and ecosystem function: the debate deepens.
+  Science 277:1260--1261.
+\bibAnnoteFile{grime1997}
+
+\bibitem[{Hadfield(2010)}]{hadfield2010}
+Hadfield, J.~D. 2010. {MCMC} methods for multi-response generalized linear
+  mixed models: the {MCMC}glmm {R} package. Journal of Statistical Software
+  33:1--22.
+\bibAnnoteFile{hadfield2010}
+
+\bibitem[{Hafer(2016)}]{hafer2016}
+Hafer, N. 2016. Conflicts over host manipulation between different parasites
+  and pathogens: Investigating the ecological and medical consequences.
+  Bioessays 38:1027--1037.
+\bibAnnoteFile{hafer2016}
+
+\bibitem[{Halcrow and Boyd(1967)}]{halcrow1967}
+Halcrow, K. and C.~M. Boyd. 1967. The oxygen consumption and swimming activity
+  of the amphipod \emph{Gammarus oceanicus} at different temperatures.
+  Comparative Biochemistry and Physiology 23:233--242.
+\bibAnnoteFile{halcrow1967}
+
+\bibitem[{Hatcher et~al.(2008)Hatcher, Dick, and Dunn}]{hatcher2008}
+Hatcher, M.~J., J.~T. Dick, and A.~M. Dunn. 2008. A keystone effect for
+  parasites in intraguild predation? Biology Letters 4:534--537.
+\bibAnnoteFile{hatcher2008}
+
+\bibitem[{Hatcher et~al.(2014)Hatcher, Dick, and Dunn}]{hatcher2014}
+Hatcher, M.~J., J.~T. Dick, and A.~M. Dunn. 2014. Parasites that change
+  predator or prey behaviour can have keystone effects on community
+  composition. Biology Letters 10:20130879.
+\bibAnnoteFile{hatcher2014}
+
+\bibitem[{Hatcher et~al.(2012)Hatcher, Dick, and Dunn}]{hatcher2012}
+Hatcher, M.~J., J.~T.~A. Dick, and A.~M. Dunn. 2012. Diverse effects of
+  parasites in ecosystems: linking interdependent processes. Frontiers in
+  Ecology and the Environment 10:186--194.
+\bibAnnoteFile{hatcher2012}
+
+\bibitem[{Hernandez and Sukhdeo(2008)}]{hernandez2008}
+Hernandez, A.~D. and M.~V. Sukhdeo. 2008. Parasites alter the topology of a
+  stream food web across seasons. Oecologia 156:613--624.
+\bibAnnoteFile{hernandez2008}
+
+\bibitem[{Hewitt et~al.(2016)Hewitt, Ellis, and Thrush}]{hewitt2016}
+Hewitt, J.~E., J.~I. Ellis, and S.~F. Thrush. 2016. Multiple stressors,
+  nonlinear effects and the implications of climate change impacts on marine
+  coastal ecosystems. Global Change Biology 22:2665--2675.
+\bibAnnoteFile{hewitt2016}
+
+\bibitem[{Höglund and Thulin(1990)}]{hoglund1990}
+Höglund, J. and J.~Thulin. 1990. The epidemiology of the metacercariae of
+  \emph{Diplostomum baeri} and \emph{D. spathaceum} in perch (\emph{Perca
+  fluviatilis}) from the warm water effluent of a nuclear power station.
+  Journal of Helminthology 64:139--150.
+\bibAnnoteFile{hoglund1990}
+
+\bibitem[{Hillebrand et~al.(2018)Hillebrand, Langenheder, Lebret, Lindström,
+  Östman, and Striebel}]{hillebrand2018}
+Hillebrand, H., S.~Langenheder, K.~Lebret, E.~Lindström, O.~Östman, and
+  M.~Striebel. 2018. Decomposing multiple dimensions of stability in global
+  change experiments. Ecology Letters 21:21--30.
+\bibAnnoteFile{hillebrand2018}
+
+\bibitem[{Hoberg and Brooks(2007)}]{hoberg2007}
+Hoberg, E.~P. and D.~R. Brooks. 2007. How will global climate change affect
+  parasite–host assemblages? TRENDS in Parasitology 23:571--574.
+\bibAnnoteFile{hoberg2007}
+
+\bibitem[{Holling(1973)}]{holling1973}
+Holling, C.~S. 1973. Resilience and stability of ecological systems. Annual
+  Review of Ecology and Systematics 4:1--23.
+\bibAnnoteFile{holling1973}
+
+\bibitem[{Horvath(1969)}]{horvath1969}
+Horvath, K. 1969. The physiology of activation of larval \emph{Moniliformis
+  dubius} ({A}canthocephala). Thesis Rice University.
+\bibAnnoteFile{horvath1969}
+
+\bibitem[{Hunting et~al.(2012)Hunting, Whatley, van~der Geest, Mulder, Kraak,
+  Breure, and Admiraal}]{hunting2012}
+Hunting, E.~R., M.~H. Whatley, H.~G. van~der Geest, C.~Mulder, M.~H.~S. Kraak,
+  A.~M. Breure, and W.~Admiraal. 2012. Invertebrate footprints on detritus
+  processing, bacterial community structure, and spatiotemporal redox profiles.
+  Freshwater Science 31:724--732.
+\bibAnnoteFile{hunting2012}
+
+\bibitem[{Hynes and Nicholas(1958)}]{hynes1958}
+Hynes, H.~B. and W.~L. Nicholas. 1958. The resistance of \emph{Gammarus} spp.
+  to infection by \emph{Polymorphus minutus} ({G}oeze, 1782)
+  ({A}canthocephala). Annals of Tropical Medicine and Parasitology 52:376--383.
+\bibAnnoteFile{hynes1958}
+
+\bibitem[{IPCC(2014)}]{ipcc2014}
+IPCC. 2014. Climate Change 2014: synthesis report. {C}ontribution of working
+  groups I, II and III to the fifth assessment report of the
+  {I}ntergovernmental {P}anel on {C}limate {C}hange Pages~1--151.
+\bibAnnoteFile{ipcc2014}
+
+\bibitem[{Issartel et~al.(2005)Issartel, Hervant, Voituron, Renault, and
+  Vernon}]{issartel2005}
+Issartel, J., F.~Hervant, Y.~Voituron, D.~Renault, and P.~Vernon. 2005.
+  Behavioural, ventilatory and respiratory responses of epigean and hypogean
+  crustaceans to different temperatures. Comparative Biochemistry and
+  Physiology Part A: Molecular & Integrative Physiology 141:1--7.
+\bibAnnoteFile{issartel2005}
+
+\bibitem[{Itämies et~al.(1980)Itämies, Valtonen, and Fagerholm}]{itamies1980}
+Itämies, J., E.~T. Valtonen, and H.-P. Fagerholm. 1980. \emph{Polymorphus
+  minutus} ({A}canthocephala) infestation in eiders and its role as a possible
+  cause of death. Annales Zoologici Fennici 17:285--289.
+\bibAnnoteFile{itamies1980}
+
+\bibitem[{Jackson et~al.(2016)Jackson, Loewen, Vinebrooke, and
+  Chimimba}]{jackson2016}
+Jackson, M.~C., C.~J.~G. Loewen, R.~D. Vinebrooke, and C.~T. Chimimba. 2016.
+  Net effects of multiple stressors in freshwater ecosystems: a
+  meta‐analysis. Global Change Biology 22:180--189.
+\bibAnnoteFile{jackson2016}
+
+\bibitem[{Jacquin et~al.(2014)Jacquin, Mori, Pause, Steffen, and
+  Medoc}]{jacquin2014}
+Jacquin, L., Q.~Mori, M.~Pause, M.~Steffen, and V.~Medoc. 2014. Non-specific
+  manipulation of gammarid behaviour by \emph{P. minutus} parasite enhances
+  their predation by definitive bird hosts. PLoS One 9:e101684.
+\bibAnnoteFile{jacquin2014}
+
+\bibitem[{Jephcott et~al.(2016)Jephcott, Sime-Ngando, Gleason, and
+  Macarthur}]{jephcott2016}
+Jephcott, T.~G., T.~Sime-Ngando, F.~H. Gleason, and D.~J. Macarthur. 2016.
+  Host–parasite interactions in food webs: Diversity, stability, and
+  coevolution. Food Webs 6:1--8.
+\bibAnnoteFile{jephcott2016}
+
+\bibitem[{Jeschke et~al.(2002)Jeschke, Kopp, and Tollrian}]{jeschke2002}
+Jeschke, J.~M., M.~Kopp, and R.~Tollrian. 2002. Predator functional responses:
+  discriminating between handling and digesting prey. Ecological Monographs
+  72:95--112.
+\bibAnnoteFile{jeschke2002}
+
+\bibitem[{Johnson et~al.(2015)Johnson, de~Roode, and Fenton}]{johnson2015}
+Johnson, P.~T., J.~C. de~Roode, and A.~Fenton. 2015. Why infectious disease
+  research needs community ecology. Science 349:1259504.
+\bibAnnoteFile{johnson2015}
+
+\bibitem[{Johnson et~al.(2006)Johnson, Stanton, Preu, Forshay, and
+  Carpenter}]{johnson2006}
+Johnson, P. T.~J., D.~E. Stanton, E.~R. Preu, K.~J. Forshay, and S.~R.
+  Carpenter. 2006. Dining on disease: How interactions between infection and
+  environment affect predation risk. Ecology 87:1973--1980.
+\bibAnnoteFile{johnson2006}
+
+\bibitem[{Jones et~al.(1996)Jones, Lawton, and Shachak}]{Jones1996}
+Jones, C.~G., J.~H. Lawton, and M.~Shachak. 1996. Organisms as Ecosystem
+  Engineers Pages~130--147. Springer New York, New York, NY.
+\bibAnnoteFile{Jones1996}
+
+\bibitem[{Jorge and Poulin(2018)}]{jorge2018}
+Jorge, F. and R.~Poulin. 2018. Poor geographical match between the
+  distributions of host diversity and parasite discovery effort. Proceedings of
+  the Royal Society B: Biological Sciences 285:20180072.
+\bibAnnoteFile{jorge2018}
+
+\bibitem[{Kadoya and Ishii(2015)}]{kadoya2015}
+Kadoya, E.~Z. and H.~S. Ishii. 2015. Host manipulation of bumble bee queens by
+  \emph{Sphaerularia} nematodes indirectly affects foraging of non-host
+  workers. Ecology 96:1361--1370.
+\bibAnnoteFile{kadoya2015}
+
+\bibitem[{Kakizaki et~al.(2003)Kakizaki, Saito, Ohtaka, and
+  Nagasawa}]{kakizaki2003}
+Kakizaki, T., T.~Saito, A.~Ohtaka, and K.~Nagasawa. 2003. Effects of
+  \emph{Acanthocephalus sp} ({A}canthocephala : {E}chinorhynchidae) on the body
+  size and reproduction of isopods (\emph{Asellus hilgendorfi}). Limnology
+  4:43--46.
+\bibAnnoteFile{kakizaki2003}
+
+\bibitem[{Kaldonski et~al.(2007)Kaldonski, Perrot-Minnot, and
+  Cézilly}]{kaldonski2007}
+Kaldonski, N., M.~.~J. Perrot-Minnot, and F.~Cézilly. 2007. Differential
+  influence of two acanthocephalan parasites on the antipredator behaviour of
+  their common intermediate host. Animal Behaviour 74:1311--1317.
+\bibAnnoteFile{kaldonski2007}
+
+\bibitem[{Kaldonski et~al.(2009)Kaldonski, Perrot-Minnot, Dodet, Martinaud, and
+  Cézilly}]{kaldonski2009}
+Kaldonski, N., M.~J. Perrot-Minnot, R.~Dodet, G.~Martinaud, and F.~Cézilly.
+  2009. Carotenoid-based colour of acanthocephalan cystacanths plays no role in
+  host manipulation. Proceedings of the Royal Society B: Biological Sciences
+  276:169--176.
+\bibAnnoteFile{kaldonski2009}
+
+\bibitem[{Kaldonski et~al.(2008)Kaldonski, Perrot-Minnot, Motreuil, and
+  Cézilly}]{kaldonski2008}
+Kaldonski, N., M.~J. Perrot-Minnot, S.~Motreuil, and F.~Cézilly. 2008.
+  Infection with acanthocephalans increases the vulnerability of \emph{Gammarus
+  pulex} ({C}rustacea, {A}mphipoda) to non-host invertebrate predators.
+  Parasitology 135:627--632.
+\bibAnnoteFile{kaldonski2008}
+
+\bibitem[{Karaman and Pinkster(1977)}]{karaman1977}
+Karaman, G.~S. and S.~Pinkster. 1977. Freshwater \emph{Gammarus} species from
+  {E}urope, {N}orth {A}frica and adjacent regions of {A}sia
+  ({C}rustacea-{A}mphipoda) vol.~47 of \emph{Bijdragen tot de dierkunde}.
+  Commissie voor de artis bibliotheek.
+\bibAnnoteFile{karaman1977}
+
+\bibitem[{Kelly et~al.(2006)Kelly, Bailey, MacNeil, Dick, and
+  McDonald}]{kelly2006}
+Kelly, D.~W., R.~J. Bailey, C.~MacNeil, J.~T.~A. Dick, and R.~A. McDonald.
+  2006. Invasion by the amphipod \emph{Gammarus pulex} alters community
+  composition of native freshwater macroinvertebrates. Diversity and
+  Distributions 12:525--534.
+\bibAnnoteFile{kelly2006}
+
+\bibitem[{Kelly et~al.(2002)Kelly, Dick, and Montgomery}]{kelly2002}
+Kelly, D.~W., J.~T.~A. Dick, and W.~I. Montgomery. 2002. The functional role of
+  \emph{Gammarus} ({C}rustacea, {A}mphipoda): shredders, predators, or both?
+  Hydrobiologia 485:199--203.
+\bibAnnoteFile{kelly2002}
+
+\bibitem[{Kenna et~al.(2017)Kenna, Fincham, Dunn, Brown, and
+  Hassall}]{kenna2017}
+Kenna, D., W.~N. Fincham, A.~M. Dunn, L.~E. Brown, and C.~Hassall. 2017.
+  Antagonistic effects of biological invasion and environmental warming on
+  detritus processing in freshwater ecosystems. Oecologia 183:875--886.
+\bibAnnoteFile{kenna2017}
+
+\bibitem[{Kéfi et~al.(2015)Kéfi, Berlow, Wieters, Joppa, Wood, Brose, and
+  Navarrete}]{kefi2015}
+Kéfi, S., E.~L. Berlow, E.~A. Wieters, L.~N. Joppa, S.~A. Wood, U.~Brose, and
+  S.~A. Navarrete. 2015. Network structure beyond food webs: mapping
+  non-trophic and trophic interactions on {C}hilean rocky shores. Ecology
+  96:291--303.
+\bibAnnoteFile{kefi2015}
+
+\bibitem[{Kéfi et~al.(2012)Kéfi, Berlow, Wieters, Navarrete, Petchey, Wood,
+  Boit, Joppa, Lafferty, Williams, Martinez, Menge, Blanchette, Iles, and
+  Brose}]{kefi2012}
+Kéfi, S., E.~L. Berlow, E.~A. Wieters, S.~A. Navarrete, O.~L. Petchey, S.~A.
+  Wood, A.~Boit, L.~N. Joppa, K.~D. Lafferty, R.~J. Williams, N.~D. Martinez,
+  B.~A. Menge, C.~A. Blanchette, A.~C. Iles, and U.~Brose. 2012. More than a
+  meal... integrating non-feeding interactions into food webs. Ecology Letters
+  15:291--300.
+\bibAnnoteFile{kefi2012}
+
+\bibitem[{Kéfi et~al.(2016)Kéfi, Miele, Wieters, Navarrete, and
+  Berlow}]{kefi2016}
+Kéfi, S., V.~Miele, E.~A. Wieters, S.~A. Navarrete, and E.~L. Berlow. 2016.
+  How structured is the entangled bank? the surprisingly simple organization of
+  multiplex ecological networks leads to increased persistence and resilience.
+  PLoS Biology 14:e1002527.
+\bibAnnoteFile{kefi2016}
+
+\bibitem[{Kirk et~al.(2018)Kirk, Jones, Peacock, Phillips, Molnar, Krkosek, and
+  Luijckx}]{kirk2018}
+Kirk, D., N.~Jones, S.~Peacock, J.~Phillips, P.~K. Molnar, M.~Krkosek, and
+  P.~Luijckx. 2018. Empirical evidence that metabolic theory describes the
+  temperature dependency of within-host parasite dynamics. PLoS Biology
+  16:e2004608.
+\bibAnnoteFile{kirk2018}
+
+\bibitem[{Kordas et~al.(2017)Kordas, Donohue, and Harley}]{kordas2017}
+Kordas, R.~L., I.~Donohue, and C.~Harley. 2017. Herbivory enables marine
+  communities to resist warming. Science Advances 3:e1701349.
+\bibAnnoteFile{kordas2017}
+
+\bibitem[{Kordas et~al.(2011)Kordas, Harley, and O'Connor}]{kordas2011}
+Kordas, R.~L., C.~D.~G. Harley, and M.~I. O'Connor. 2011. Community ecology in
+  a warming world: the influence of temperature on interspecific interactions
+  in marine systems. Journal of Experimental Marine Biology and Ecology
+  400:218--226.
+\bibAnnoteFile{kordas2011}
+
+\bibitem[{Kuris et~al.(2008)Kuris, Hechinger, Shaw, Whitney, Aguirre-Macedo,
+  Boch, Dobson, Dunham, Fredensborg, Huspeni, Lorda, Mababa, Mancini, Mora,
+  Pickering, Talhouk, Torchin, and Lafferty}]{kruis2008}
+Kuris, A.~M., R.~F. Hechinger, J.~C. Shaw, K.~L. Whitney, L.~Aguirre-Macedo,
+  C.~A. Boch, A.~P. Dobson, E.~J. Dunham, B.~L. Fredensborg, T.~C. Huspeni,
+  J.~Lorda, L.~Mababa, F.~T. Mancini, A.~B. Mora, M.~Pickering, N.~L. Talhouk,
+  M.~E. Torchin, and K.~D. Lafferty. 2008. Ecosystem energetic implications of
+  parasite and free-living biomass in three estuaries. Nature 454:515--518.
+\bibAnnoteFile{kruis2008}
+
+\bibitem[{Kutz et~al.(2005)Kutz, Hoberg, Polley, and Jenkins}]{kutz2005}
+Kutz, S.~J., E.~P. Hoberg, L.~Polley, and E.~J. Jenkins. 2005. Global warming
+  is changing the dynamics of arctic host-parasite systems. Proceedings of the
+  Royal Society B: Biological Sciences 272:2571--2576.
+\bibAnnoteFile{kutz2005}
+
+\bibitem[{Labaude et~al.(2017)Labaude, Cézilly, and Rigaud}]{labaude2017}
+Labaude, S., F.~Cézilly, and T.~Rigaud. 2017. Temperature-related
+  intraspecific variability in the behavioral manipulation of acanthocephalan
+  parasites on their gammarid hosts. Biological Bulletin 232:82--90.
+\bibAnnoteFile{labaude2017}
+
+\bibitem[{Labaude et~al.(2015{\natexlab{a}})Labaude, Cézilly, Tercier, and
+  Rigaud}]{labaude2015influence}
+Labaude, S., F.~Cézilly, X.~Tercier, and T.~Rigaud. 2015{\natexlab{a}}.
+  Influence of host nutritional condition on post-infection traits in the
+  association between the manipulative acanthocephalan \emph{Pomphorhynchus
+  laevis} and the amphipod \emph{Gammarus pulex}. Parasites and Vectors
+  8:403--415.
+\bibAnnoteFile{labaude2015influence}
+
+\bibitem[{Labaude et~al.(2015{\natexlab{b}})Labaude, Rigaud, and
+  Cezilly}]{labaude2015host}
+Labaude, S., T.~Rigaud, and F.~Cezilly. 2015{\natexlab{b}}. Host manipulation
+  in the face of environmental changes: ecological consequences. The
+  International Journal for Parasitology: Parasites and Wildlife 4:442--451.
+\bibAnnoteFile{labaude2015host}
+
+\bibitem[{Labaude et~al.(2016)Labaude, Rigaud, and Cézilly}]{labaude2016}
+Labaude, S., T.~Rigaud, and F.~Cézilly. 2016. Additive effects of temperature
+  and infection with an acanthocephalan parasite on the shredding activity of
+  \emph{Gammarus fossarum} ({C}rustacea: {A}mphipoda): the importance of
+  aggregative behavior. Global Change Biology 23:1415–1424.
+\bibAnnoteFile{labaude2016}
+
+\bibitem[{Lafferty(2009)}]{lafferty2009}
+Lafferty, K.~D. 2009. The ecology of climate change and infectious diseases.
+  Ecology 90:888--900.
+\bibAnnoteFile{lafferty2009}
+
+\bibitem[{Lafferty et~al.(2008)Lafferty, Allesina, Arim, Briggs, De~Leo,
+  Dobson, Dunne, Johnson, Kuris, Marcogliese, Martinez, Memmott, Marquet,
+  McLaughlin, Mordecai, Pascual, Poulin, and Thieltges}]{lafferty2008}
+Lafferty, K.~D., S.~Allesina, M.~Arim, C.~J. Briggs, G.~De~Leo, A.~P. Dobson,
+  J.~A. Dunne, P.~T. Johnson, A.~M. Kuris, D.~J. Marcogliese, N.~D. Martinez,
+  J.~Memmott, P.~A. Marquet, J.~P. McLaughlin, E.~A. Mordecai, M.~Pascual,
+  R.~Poulin, and D.~W. Thieltges. 2008. Parasites in food webs: the ultimate
+  missing links. Ecology Letters 11:533--546.
+\bibAnnoteFile{lafferty2008}
+
+\bibitem[{Lafferty et~al.(2015)Lafferty, DeLeo, Briggs, Dobson, Gross, and
+  Kuris}]{lafferty2015}
+Lafferty, K.~D., G.~DeLeo, C.~J. Briggs, A.~P. Dobson, T.~Gross, and A.~M.
+  Kuris. 2015. A general consumer-resource population model. Science
+  349:854--857.
+\bibAnnoteFile{lafferty2015}
+
+\bibitem[{Lafferty et~al.(2006{\natexlab{a}})Lafferty, Dobson, and
+  Kuris}]{lafferty2006parasites}
+Lafferty, K.~D., A.~P. Dobson, and A.~M. Kuris. 2006{\natexlab{a}}. Parasites
+  dominate food web links. Proceedings of the National Academy of Sciences of
+  the United States of America 103:11211--11216.
+\bibAnnoteFile{lafferty2006parasites}
+
+\bibitem[{Lafferty et~al.(2006{\natexlab{b}})Lafferty, Hechinger, Shaw,
+  Whitney, and Kuris}]{lafferty2006food}
+Lafferty, K.~D., R.~F. Hechinger, J.~C. Shaw, K.~L. Whitney, and A.~M. Kuris.
+  2006{\natexlab{b}}. Food webs and parasites in a salt marsh ecosystem book
+  section~9, Pages~119--134. Oxford University Press, Oxford.
+\bibAnnoteFile{lafferty2006food}
+
+\bibitem[{Lagrue et~al.(2007)Lagrue, Kaldonski, Perrot-Minnot, Motreuil, and
+  Bollache}]{lagrue2007}
+Lagrue, C., N.~Kaldonski, M.~J. Perrot-Minnot, S.~Motreuil, and L.~Bollache.
+  2007. Modification of hosts' behavior by a parasite: field evidence for
+  adaptive manipulation. Ecology 88:2839--2847.
+\bibAnnoteFile{lagrue2007}
+
+\bibitem[{Laverty et~al.(2017)Laverty, Brenner, McIlwaine, Lennon, Dick, Lucy,
+  and Christian}]{laverty2017}
+Laverty, C., D.~Brenner, C.~McIlwaine, J.~J. Lennon, J.~T. Dick, F.~E. Lucy,
+  and K.~A. Christian. 2017. Temperature rise and parasitic infection interact
+  to increase the impact of an invasive species. International Journal for
+  Parasitology 47:291--296.
+\bibAnnoteFile{laverty2017}
+
+\bibitem[{Lefevre et~al.(2009)Lefevre, Lebarbenchon, Gauthier-Clerc, Misse,
+  Poulin, and Thomas}]{lefevre2009}
+Lefevre, T., C.~Lebarbenchon, M.~Gauthier-Clerc, D.~Misse, R.~Poulin, and
+  F.~Thomas. 2009. The ecological significance of manipulative parasites.
+  Trends in Ecology and Evolution 24:41--8.
+\bibAnnoteFile{lefevre2009}
+
+\bibitem[{Lenihan et~al.(1999)Lenihan, Micheli, Shelton, and
+  Peterson}]{lenihan1999}
+Lenihan, H.~S., F.~Micheli, S.~W. Shelton, and C.~H. Peterson. 1999. The
+  influence of multiple environmental stressors on susceptibility to parasites:
+  An experimental determination with oysters. Limnology and Oceanography
+  44:910--924.
+\bibAnnoteFile{lenihan1999}
+
+\bibitem[{Little and Altermatt(2018)}]{little2018}
+Little, C.~J. and F.~Altermatt. 2018. Species turnover and invasion of dominant
+  freshwater invertebrates alter biodiversity–ecosystem-function
+  relationship. Ecological Monographs 88:461--480.
+\bibAnnoteFile{little2018}
+
+\bibitem[{Lyndon(1996)}]{lyndon1996}
+Lyndon, A.~R. 1996. The role of acanthocephalan parasites in the predation of
+  freshwater isopods by fish. Aquatic Predators and Their Prey Pages~26--32.
+\bibAnnoteFile{lyndon1996}
+
+\bibitem[{MacNeil and Briffa(2009)}]{macneil2009}
+MacNeil, C. and M.~Briffa. 2009. Replacement of a native freshwater
+  macroinvertebrate species by an invader: implications for biological water
+  quality monitoring. Hydrobiologia 635:321.
+\bibAnnoteFile{macneil2009}
+
+\bibitem[{MacNeil et~al.(1997)MacNeil, Dick, and Elwood}]{macneil1997}
+MacNeil, C., J.~T. Dick, and R.~W. Elwood. 1997. The trophic ecology of
+  freshwater \emph{Gammarus} spp. ({C}rustacea: {A}mphipoda): Problems and
+  perspectives concerning the functional feeding group concept. Biological
+  Reviews of the Cambridge Philosophical Society 72:349--364.
+\bibAnnoteFile{macneil1997}
+
+\bibitem[{MacNeil et~al.(2003)MacNeil, Fielding, Dick, Briffa, Prenter,
+  Hatcher, and Dunn}]{macneil2003}
+MacNeil, C., N.~J. Fielding, J.~T.~A. Dick, M.~Briffa, J.~Prenter, M.~J.
+  Hatcher, and A.~M. Dunn. 2003. An acanthocephalan parasite mediates
+  intraguild predation between invasive and native freshwater amphipods
+  ({C}rustacea). Freshwater Biology 48:2085--2093.
+\bibAnnoteFile{macneil2003}
+
+\bibitem[{Maire et~al.(2010)Maire, Lecroart, Meysman, Rosenberg, Duchêne, and
+  Grémare}]{maire2010}
+Maire, O., P.~Lecroart, F.~Meysman, R.~Rosenberg, J.~Duchêne, and A.~Grémare.
+  2010. Quantification of sediment reworking rates in bioturbation research: a
+  review. Aquatic Biology 2:219--238.
+\bibAnnoteFile{maire2010}
+
+\bibitem[{Mancinelli(2012)}]{mancinelli2012}
+Mancinelli, G. 2012. To bite, or not to bite? a quantitative comparison of
+  foraging strategies among three brackish crustaceans feeding on leaf litters.
+  Estuarine Coastal and Shelf Science 110:125--133.
+\bibAnnoteFile{mancinelli2012}
+
+\bibitem[{Manning et~al.(2018)Manning, van~der Plas, Soliveres, Allan, Maestre,
+  Mace, Whittingham, and Fischer}]{manning2018}
+Manning, P., F.~van~der Plas, S.~Soliveres, E.~Allan, F.~T. Maestre, G.~Mace,
+  M.~J. Whittingham, and M.~Fischer. 2018. Redefining ecosystem
+  multifunctionality. Nature Ecology and Evolution 2:427--436.
+\bibAnnoteFile{manning2018}
+
+\bibitem[{Marriott et~al.(1989)Marriott, Collins, Paris, Gudgin, Barnard,
+  McGregor, Gilbert, Hartley, and Behnke}]{marriott1989}
+Marriott, D.~R., M.~L. Collins, R.~M. Paris, D.~R. Gudgin, C.~J. Barnard, P.~K.
+  McGregor, F.~S. Gilbert, J.~C. Hartley, and J.~M. Behnke. 1989. Behavioural
+  modifications and increased predation risk of \emph{Gammarus pulex} infected
+  with \emph{Polymorphus minutus}. Journal of Biological Education 23:135--141.
+\bibAnnoteFile{marriott1989}
+
+\bibitem[{May(1974)}]{may1974}
+May, R. 1974. Stability and complexity in model ecosystems.
+\bibAnnoteFile{may1974}
+
+\bibitem[{McClean et~al.(2015)McClean, McNally, Salzberg, Devine, Brown, and
+  Donohue}]{mcclean2015}
+McClean, D., L.~McNally, L.~I. Salzberg, K.~M. Devine, S.~P. Brown, and
+  I.~Donohue. 2015. Single gene locus changes perturb complex microbial
+  communities as much as apex predator loss. Nature Communications 6:8235.
+\bibAnnoteFile{mcclean2015}
+
+\bibitem[{McDonald(1988)}]{mcdonald1988}
+McDonald, M.~E. 1988. Key to acanthocephala reported in waterfowl. United
+  States Department of the Interior, Fish and Wildlife Service, Washington,
+  D.C., U.S.A.
+\bibAnnoteFile{mcdonald1988}
+
+\bibitem[{Medoc and Beisel(2008)}]{medoc2008}
+Medoc, V. and J.~N. Beisel. 2008. An acanthocephalan parasite boosts the escape
+  performance of its intermediate host facing non-host predators. Parasitology
+  135:977--984.
+\bibAnnoteFile{medoc2008}
+
+\bibitem[{Medoc et~al.(2006)Medoc, Bollache, and Beisel}]{medoc2006}
+Medoc, V., L.~Bollache, and J.~N. Beisel. 2006. Host manipulation of a
+  freshwater crustacean (\emph{Gammarus roeseli}) by an acanthocephalan
+  parasite (\emph{Polymorphus minutus}) in a biological invasion context.
+  International Journal for Parasitology 36:1351--1358.
+\bibAnnoteFile{medoc2006}
+
+\bibitem[{Mermillod‐Blondin et~al.(2004)Mermillod‐Blondin, Gaudet, Gerino,
+  Desrosiers, Jose, and Châtelliers}]{mermillod2006}
+Mermillod‐Blondin, F., J.~Gaudet, M.~Gerino, G.~Desrosiers, J.~Jose, and
+  M.~C.~d. Châtelliers. 2004. Relative influence of bioturbation and predation
+  on organic matter processing in river sediments: a microcosm experiment.
+  Freshwater Biology 49:895--912.
+\bibAnnoteFile{mermillod2006}
+
+\bibitem[{Meyer et~al.(2018)Meyer, Ptacnik, Hillebrand, Bessler, Buchmann,
+  Ebeling, Eisenhauer, Engels, Fischer, Halle, Klein, Oelmann, Roscher,
+  Rottstock, Scherber, Scheu, Schmid, Schulze, Temperton, Tscharntke, Voigt,
+  Weigelt, Wilcke, and Weisser}]{meyer2018}
+Meyer, S.~T., R.~Ptacnik, H.~Hillebrand, H.~Bessler, N.~Buchmann, A.~Ebeling,
+  N.~Eisenhauer, C.~Engels, M.~Fischer, S.~Halle, A.~M. Klein, Y.~Oelmann,
+  C.~Roscher, T.~Rottstock, C.~Scherber, S.~Scheu, B.~Schmid, E.~D. Schulze,
+  V.~M. Temperton, T.~Tscharntke, W.~Voigt, A.~Weigelt, W.~Wilcke, and W.~W.
+  Weisser. 2018. Biodiversity-multifunctionality relationships depend on
+  identity and number of measured functions. Nature Ecology and Evolution
+  2:44--49.
+\bibAnnoteFile{meyer2018}
+
+\bibitem[{Moenickes et~al.(2011)Moenickes, Schneider, Muhle, Rohe, Richter, and
+  Suhling}]{moenickes2011}
+Moenickes, S., A.~K. Schneider, L.~Muhle, L.~Rohe, O.~Richter, and F.~Suhling.
+  2011. From population-level effects to individual response: modelling
+  temperature dependence in \emph{Gammarus pulex}. Journal of Experimental
+  Biology 214:3678--3687.
+\bibAnnoteFile{moenickes2011}
+
+\bibitem[{Moore and Gotelli(1996)}]{moore1996}
+Moore, J. and N.~J. Gotelli. 1996. Evolutionary patterns of altered behavior
+  and susceptibility in parasitized hosts. Evolution 50:807--819.
+\bibAnnoteFile{moore1996}
+
+\bibitem[{Morley and Lewis(2014)}]{morley2014}
+Morley, N.~J. and J.~W. Lewis. 2014. Temperature stress and parasitism of
+  endothermic hosts under climate change. Trends in Parasitology 30:221--227.
+\bibAnnoteFile{morley2014}
+
+\bibitem[{Mortensen(1982)}]{mortensen1982}
+Mortensen, E. 1982. Production of \emph{Gammarus pulex} {L}. ({A}mphipoda) in a
+  small {D}anish stream. Hydrobiologia 87:77--97.
+\bibAnnoteFile{mortensen1982}
+
+\bibitem[{Mouquet et~al.(2015)Mouquet, Lagadeuc, Devictor, Doyen, Duputié,
+  Eveillard, Faure, Garnier, Gimenez, Huneman, Jabot, Jarne, Joly, Julliard,
+  Kéfi, Kergoat, Lavorel, Le~Gall, Meslin, Morand, Morin, Morlon, Pinay,
+  Pradel, Schurr, Thuiller, and Loreau}]{nouquet2015}
+Mouquet, N., Y.~Lagadeuc, V.~Devictor, L.~Doyen, A.~Duputié, D.~Eveillard,
+  D.~Faure, E.~Garnier, O.~Gimenez, P.~Huneman, F.~Jabot, P.~Jarne, D.~Joly,
+  R.~Julliard, S.~Kéfi, G.~J. Kergoat, S.~Lavorel, L.~Le~Gall, L.~Meslin,
+  S.~Morand, X.~Morin, H.~Morlon, G.~Pinay, R.~Pradel, F.~M. Schurr,
+  W.~Thuiller, and M.~Loreau. 2015. Predictive ecology in a changing world.
+  Journal of Applied Ecology 52:1293--1310.
+\bibAnnoteFile{nouquet2015}
+
+\bibitem[{Mouritsen and Jensen(1997)}]{mouritsen1997}
+Mouritsen, K.~N. and K.~T. Jensen. 1997. Parasite transmission between
+  soft-bottom invertebrates: Temperature mediated infection rates and mortality
+  in \emph{Corophium volutator}. Marine Ecology Progress Series 151:123--134.
+\bibAnnoteFile{mouritsen1997}
+
+\bibitem[{Mouritsen and Poulin(2005)}]{mouritsen2005}
+Mouritsen, K.~N. and R.~Poulin. 2005. Parasites boost biodiversity and change
+  animal community structure by trait-mediated indirect effects. Oikos
+  108:344--350.
+\bibAnnoteFile{mouritsen2005}
+
+\bibitem[{Mrowicki et~al.(2016)Mrowicki, O'Connor, and Donohue}]{mrowicki2016}
+Mrowicki, R.~J., N.~E. O'Connor, and I.~Donohue. 2016. Temporal variability of
+  a single population can determine the vulnerability of communities to
+  perturbations. Journal of Ecology 104:887--897.
+\bibAnnoteFile{mrowicki2016}
+
+\bibitem[{Nicholas and Hynes(1958)}]{nicholas19582}
+Nicholas, W.~L. and H.~B.~N. Hynes. 1958. Studies on \emph{Polymorphus minutus}
+  (goeze, 1782) ({A}canthocephala) as a parasite of the domestic duck. Annals
+  of Tropical Medicine and Parasitology 52:36--47.
+\bibAnnoteFile{nicholas19582}
+
+\bibitem[{Nilsson(1974)}]{nilsson1974}
+Nilsson, L.~M. 1974. Energy budget of a laboratory population of \emph{Gammarus
+  pulex} ({A}mphipoda). Oikos 25:35--42.
+\bibAnnoteFile{nilsson1974}
+
+\bibitem[{O'Connor et~al.(2009)O'Connor, Piehler, Leech, Anton, and
+  Bruno}]{oconnor2009}
+O'Connor, M.~I., M.~F. Piehler, D.~M. Leech, A.~Anton, and J.~F. Bruno. 2009.
+  Warming and resource availability shift food web structure and metabolism.
+  PLoS Biology 7:e1000178.
+\bibAnnoteFile{oconnor2009}
+
+\bibitem[{{Office of Public Works}(2018)}]{opw2018}
+{Office of Public Works}. 2018. {H}ydro-{D}ata {S}tation 25028 {S}hannonbridge.
+\bibAnnoteFile{opw2018}
+
+\bibitem[{O'Gorman et~al.(2014)O'Gorman, Benstead, Cross, Friberg, Hood,
+  Johnson, Sigurdsson, and Woodward}]{ogorman2014}
+O'Gorman, E.~J., J.~P. Benstead, W.~F. Cross, N.~Friberg, J.~M. Hood, P.~W.
+  Johnson, B.~D. Sigurdsson, and G.~Woodward. 2014. Climate change and
+  geothermal ecosystems: natural laboratories, sentinel systems, and future
+  refugia. Global Change Biology 20:3291--3299.
+\bibAnnoteFile{ogorman2014}
+
+\bibitem[{O'Gorman and Emmerson(2009)}]{ogorman2009}
+O'Gorman, E.~J. and M.~C. Emmerson. 2009. Perturbations to trophic interactions
+  and the stability of complex food webs. Proceedings of the National Academy
+  of Sciences of the United States of America 106:13393--13398.
+\bibAnnoteFile{ogorman2009}
+
+\bibitem[{O'Gorman et~al.(2016)O'Gorman, Ólafsson, Demars, Friberg,
+  Guðbergsson, Hannesdóttir, Jackson, Johansson, McLaughlin, Ólafsson,
+  Woodward, and Gíslason}]{ogorman2016}
+O'Gorman, E.~J., l.~P. Ólafsson, B.~O.~L. Demars, N.~Friberg, G.~Guðbergsson,
+  E.~R. Hannesdóttir, M.~C. Jackson, L.~S. Johansson, O.~B. McLaughlin, J.~S.
+  Ólafsson, G.~Woodward, and G.~M. Gíslason. 2016. Temperature effects on
+  fish production across a natural thermal gradient. Global Change Biology
+  22:3206--3220.
+\bibAnnoteFile{ogorman2016}
+
+\bibitem[{O'Gorman et~al.(2012)O'Gorman, Pichler, Adams, Benstead, Cohen,
+  Craig, Cross, Demars, Friberg, Gíslason, Gudmundsdóttir, Hawczak, Hood,
+  Hudson, Johansson, Johansson, Junker, Laurila, Manson, Mavromati, Nelson,
+  Ólafsson, Perkins, Petchey, Plebani, Reuman, Rall, Stewart, Thompson, and
+  Woodward}]{ogorman2012}
+O'Gorman, E.~J., D.~E. Pichler, G.~Adams, J.~P. Benstead, H.~Cohen, N.~Craig,
+  W.~F. Cross, B.~O.~L. Demars, N.~Friberg, G.~M. Gíslason,
+  R.~Gudmundsdóttir, A.~Hawczak, J.~M. Hood, L.~N. Hudson, L.~Johansson, M.~P.
+  Johansson, J.~R. Junker, A.~Laurila, J.~R. Manson, E.~Mavromati, D.~Nelson,
+  J.~S. Ólafsson, D.~M. Perkins, O.~L. Petchey, M.~Plebani, D.~C. Reuman,
+  B.~C. Rall, R.~Stewart, M.~S.~A. Thompson, and G.~Woodward. 2012. Impacts of
+  warming on the structure and functioning of aquatic communities. Advances in
+  Ecological Research 47:81--176.
+\bibAnnoteFile{ogorman2012}
+
+\bibitem[{O’Gorman et~al.(2017)O’Gorman, Zhao, Pichler, Adams, Friberg,
+  Rall, Seeney, Zhang, Reuman, and Woodward}]{ogorman2017}
+O’Gorman, E.~J., L.~Zhao, D.~E. Pichler, G.~Adams, N.~Friberg, B.~C. Rall,
+  A.~Seeney, H.~Zhang, D.~C. Reuman, and G.~Woodward. 2017. Unexpected changes
+  in community size structure in a natural warming experiment. Nature Climate
+  Change 7:659–663.
+\bibAnnoteFile{ogorman2017}
+
+\bibitem[{Ohlund et~al.(2015)Ohlund, Hedstrom, Norman, Hein, and
+  Englund}]{ohlund2015}
+Ohlund, G., P.~Hedstrom, S.~Norman, C.~L. Hein, and G.~Englund. 2015.
+  Temperature dependence of predation depends on the relative performance of
+  predators and prey. Proceedings of the Royal Society B: Biological Sciences
+  282:20142254.
+\bibAnnoteFile{ohlund2015}
+
+\bibitem[{O'Mahony et~al.(2004)O'Mahony, Bradley, Kennedy, and
+  Holland}]{omahony2004}
+O'Mahony, E.~M., D.~G. Bradley, C.~R. Kennedy, and C.~V. Holland. 2004.
+  Evidence for the hypothesis of strain formation in \emph{Pomphorhynchus
+  laevis} ({A}canthocephala): an investigation using mitochondrial {DNA}
+  sequences. Parasitology 129:341--347.
+\bibAnnoteFile{omahony2004}
+
+\bibitem[{Ouellette et~al.(2004)Ouellette, Gaston, Gagne, Gilbert, Poggiale,
+  Blier, and Stora}]{ouellette2004}
+Ouellette, D., D.~Gaston, J.-P. Gagne, F.~Gilbert, J.-C. Poggiale, P.~U. Blier,
+  and G.~Stora. 2004. Effects of temperature on \emph{in vitro} sediment
+  reworking processes by a gallery biodiffusor, the polychaete \emph{Neanthes
+  virens}. Marine Ecology Progress Series 266:185--193.
+\bibAnnoteFile{ouellette2004}
+
+\bibitem[{Paterson et~al.(2014)Paterson, Dick, Pritchard, Ennis, Hatcher, and
+  Dunn}]{paterson2014}
+Paterson, R.~A., J.~T. Dick, D.~W. Pritchard, M.~Ennis, M.~J. Hatcher, and
+  A.~M. Dunn. 2014. Predicting invasive species impacts: a community module
+  functional response approach reveals context dependencies. Journal of Animal
+  Ecology 84:453--463.
+\bibAnnoteFile{paterson2014}
+
+\bibitem[{Pawar et~al.(2016)Pawar, Dell, Savage, and Knies}]{pawar2016}
+Pawar, S., A.~I. Dell, V.~M. Savage, and J.~L. Knies. 2016. Real versus
+  artificial variation in the thermal sensitivity of biological traits. The
+  American Naturalist 187:E41--E52.
+\bibAnnoteFile{pawar2016}
+
+\bibitem[{Pellan et~al.(2016)Pellan, Médoc, Renault, Spataro, and
+  Piscart}]{pellan2016}
+Pellan, L., V.~Médoc, D.~Renault, T.~Spataro, and C.~Piscart. 2016. Feeding
+  choice and predation pressure of two invasive gammarids, \emph{Gammarus
+  tigrinus} and \emph{Dikerogammarus villosus}, under increasing temperature.
+  Hydrobiologia 781:43--54.
+\bibAnnoteFile{pellan2016}
+
+\bibitem[{Penk et~al.(2016)Penk, Jeschke, Minchin, and Donohue}]{penk2016}
+Penk, M.~R., J.~M. Jeschke, D.~Minchin, and I.~Donohue. 2016. Warming can
+  enhance invasion success through asymmetries in energetic performance.
+  Journal of Animal Ecology 85:419--426.
+\bibAnnoteFile{penk2016}
+
+\bibitem[{Perrot-Minnot(2004)}]{perrot2004}
+Perrot-Minnot, M.~J. 2004. Larval morphology, genetic divergence, and
+  contrasting levels of host manipulation between forms of \emph{Pomphorhynchus
+  laevis} ({A}canthocephala). International Journal for Parasitology 34:45--54.
+\bibAnnoteFile{perrot2004}
+
+\bibitem[{Perrot-Minnot et~al.(2007)Perrot-Minnot, Kaldonski, and
+  Cézilly}]{perrot2007}
+Perrot-Minnot, M.~J., N.~Kaldonski, and F.~Cézilly. 2007. Increased
+  susceptibility to predation and altered anti-predator behaviour in an
+  acanthocephalan-infected amphipod. International Journal for Parasitology
+  37:645--651.
+\bibAnnoteFile{perrot2007}
+
+\bibitem[{Perrot-Minnot et~al.(2012)Perrot-Minnot, Maddaleno, Balourdet, and
+  Cézilly}]{perrot2012}
+Perrot-Minnot, M.~J., M.~Maddaleno, A.~Balourdet, and F.~Cézilly. 2012. Host
+  manipulation revisited: no evidence for a causal link between altered
+  photophobia and increased trophic transmission of amphipods infected with
+  acanthocephalans. Functional Ecology 26:1007--1014.
+\bibAnnoteFile{perrot2012}
+
+\bibitem[{Perrot-Minnot et~al.(2014)Perrot-Minnot, Sanchez-Thirion, and
+  Cézilly}]{perrot2014}
+Perrot-Minnot, M.~J., K.~Sanchez-Thirion, and F.~Cézilly. 2014.
+  Multidimensionality in host manipulation mimicked by serotonin injection.
+  Philosophical Transactions of the Royal Society B: Biological Sciences.
+  281:20141915.
+\bibAnnoteFile{perrot2014}
+
+\bibitem[{Perrot‐Minnot et~al.(2016)Perrot‐Minnot, Maddaleno, Cézilly, and
+  Woods}]{perrot2016}
+Perrot‐Minnot, M.~J., M.~Maddaleno, F.~Cézilly, and A.~Woods. 2016.
+  Parasite‐induced inversion of geotaxis in a freshwater amphipod: a role for
+  anaerobic metabolism? Functional Ecology 30:780--788.
+\bibAnnoteFile{perrot2016}
+
+\bibitem[{Petchey et~al.(2010)Petchey, Brose, and Rall}]{petchey2010}
+Petchey, O.~L., U.~Brose, and B.~C. Rall. 2010. Predicting the effects of
+  temperature on food web connectance. Philosophical Transactions of the Royal
+  Society B: Biological Sciences 365:2081--2091.
+\bibAnnoteFile{petchey2010}
+
+\bibitem[{Petersen and Cummins(1974)}]{petersen1974}
+Petersen, R.~C. and K.~W. Cummins. 1974. Leaf processing in a woodland stream.
+  Freshwater Biology 4:343--368.
+\bibAnnoteFile{petersen1974}
+
+\bibitem[{Pilfold et~al.(2014)Pilfold, Derocher, and Richardson}]{pilfold2014}
+Pilfold, N.~W., A.~E. Derocher, and E.~Richardson. 2014. Influence of
+  intraspecific competition on the distribution of a wide-ranging,
+  non-territorial carnivore. Global Ecology and Biogeography 23:425--435.
+\bibAnnoteFile{pilfold2014}
+
+\bibitem[{Pimm(1984)}]{pimm1984}
+Pimm, S.~L. 1984. The complexity and stability of ecosystems. Nature
+  307:321--326.
+\bibAnnoteFile{pimm1984}
+
+\bibitem[{Piscart et~al.(2011)Piscart, Mermillod-Blondin, Maazouzi, Merigoux,
+  and Marmonier}]{piscart2011}
+Piscart, C., F.~Mermillod-Blondin, C.~Maazouzi, S.~Merigoux, and P.~Marmonier.
+  2011. Potential impact of invasive amphipods on leaf litter recycling in
+  aquatic ecosystems. Biological Invasions 13:2861--2868.
+\bibAnnoteFile{piscart2011}
+
+\bibitem[{Piscart et~al.(2007)Piscart, Webb, and Beisel}]{piscart2007}
+Piscart, C., D.~Webb, and J.~N. Beisel. 2007. An acanthocephalan parasite
+  increases the salinity tolerance of the freshwater amphipod \emph{Gammarus
+  roeseli} ({C}rustacea: {G}ammaridae). Naturwissenschaften 94:741--747.
+\bibAnnoteFile{piscart2007}
+
+\bibitem[{Post and Pedersen(2008)}]{post2008}
+Post, E. and C.~Pedersen. 2008. Opposing plant community responses to warming
+  with and without herbivores. Proceedings of the National Academy of Sciences
+  of the United States of America 105:12353--12358.
+\bibAnnoteFile{post2008}
+
+\bibitem[{Poulin(1995)}]{poulin1995}
+Poulin, R. 1995. "{A}daptive" changes in the behaviour of parasitized animals:
+  A critical review. International Journal for Parasitology 25:1371--1383.
+\bibAnnoteFile{poulin1995}
+
+\bibitem[{Poulin(2006)}]{poulin2006}
+Poulin, R. 2006. Global warming and temperature-mediated increases in cercarial
+  emergence in trematode parasites. Parasitology 132:143--151.
+\bibAnnoteFile{poulin2006}
+
+\bibitem[{Poulin(2013)}]{poulin2013}
+Poulin, R. 2013. Parasite manipulation of host personality and behavioural
+  syndromes. Journal of Experimental Biology 216:18--26.
+\bibAnnoteFile{poulin2013}
+
+\bibitem[{Poulin(2018)}]{poulin2018best}
+Poulin, R. 2018. Best practice guidelines for studies of parasite community
+  ecology. Journal of Helminthology Pages~1--4.
+\bibAnnoteFile{poulin2018best}
+
+\bibitem[{Poulin and Jorge(2018)}]{poulin2018the}
+Poulin, R. and F.~Jorge. 2018. The geography of parasite discovery across taxa
+  and over time. Parasitology Pages~1--8.
+\bibAnnoteFile{poulin2018the}
+
+\bibitem[{Preston et~al.(2013)Preston, Orlofske, Lambden, and
+  Johnson}]{preston2013}
+Preston, D.~L., S.~A. Orlofske, J.~P. Lambden, and P.~T. Johnson. 2013. Biomass
+  and productivity of trematode parasites in pond ecosystems. Journal of Animal
+  Ecology 82:509--517.
+\bibAnnoteFile{preston2013}
+
+\bibitem[{{R Core Team}(2017)}]{r2017}
+{R Core Team}. 2017. R: A language and environment for statistical computing.
+\bibAnnoteFile{r2017}
+
+\bibitem[{Rall et~al.(2012)Rall, Brose, Hartvig, Kalinkat, Schwarzmuller,
+  Vucic-Pestic, and Petchey}]{rall2012}
+Rall, B.~C., U.~Brose, M.~Hartvig, G.~Kalinkat, F.~Schwarzmuller,
+  O.~Vucic-Pestic, and O.~L. Petchey. 2012. Universal temperature and body-mass
+  scaling of feeding rates. Philosophical transactions of the Royal Society of
+  London Series B: Biological sciences 367:2923--2934.
+\bibAnnoteFile{rall2012}
+
+\bibitem[{Rall et~al.(2010)Rall, Vucic-Pestic, Ehnes, Emmerson, and
+  Brose}]{rall2010}
+Rall, B.~C., O.~Vucic-Pestic, R.~B. Ehnes, M.~Emmerson, and U.~Brose. 2010.
+  Temperature, predator–prey interaction strength and population stability.
+  Global Change Biology 16:2145--2157.
+\bibAnnoteFile{rall2010}
+
+\bibitem[{Raptis et~al.(2016)Raptis, van Vliet, and Pfister}]{raptis2016}
+Raptis, C.~E., M.~T.~H. van Vliet, and S.~Pfister. 2016. Global thermal
+  pollution of rivers from thermoelectric power plants. Environmental Research
+  Letters 11:104011.
+\bibAnnoteFile{raptis2016}
+
+\bibitem[{Reid(1938)}]{reid1938}
+Reid, D.~M. 1938. Forms of \emph{Gammarus} from {I}reland. Nature 141:690.
+\bibAnnoteFile{reid1938}
+
+\bibitem[{Reisinger and Lodge(2016)}]{reisinger2016}
+Reisinger, L.~S. and D.~M. Lodge. 2016. Parasites alter freshwater communities
+  in mesocosms by modifying invasive crayfish behavior. Ecology 97:1497--1506.
+\bibAnnoteFile{reisinger2016}
+
+\bibitem[{Reisinger et~al.(2015)Reisinger, Petersen, Hing, Davila, and
+  Lodge}]{reisinger2015}
+Reisinger, L.~S., I.~Petersen, J.~S. Hing, R.~L. Davila, and D.~M. Lodge. 2015.
+  Infection with a trematode parasite differentially alters competitive
+  interactions and antipredator behaviour in native and invasive crayfish.
+  Freshwater Biology 60:1581--1595.
+\bibAnnoteFile{reisinger2015}
+
+\bibitem[{Reuman et~al.(2014)Reuman, Holt, and Yvon-Durocher}]{reuman2014}
+Reuman, D.~C., R.~D. Holt, and G.~Yvon-Durocher. 2014. A metabolic perspective
+  on competition and body size reductions with warming. Journal of Animal
+  Ecology 83:59--69.
+\bibAnnoteFile{reuman2014}
+
+\bibitem[{Rigaud and Moret(2003)}]{rigaud2003}
+Rigaud, T. and Y.~Moret. 2003. Differential phenoloxidase activity between
+  native and invasive gammarids infected by local acanthocephalans:
+  differential immunosuppression? Parasitology 127:571--577.
+\bibAnnoteFile{rigaud2003}
+
+\bibitem[{Rohr et~al.(2011)Rohr, Dobson, Johnson, Kilpatrick, Paull, Raffel,
+  Ruiz-Moreno, and Thomas}]{rohr2011}
+Rohr, J.~R., A.~P. Dobson, P.~T. Johnson, A.~M. Kilpatrick, S.~H. Paull, T.~R.
+  Raffel, D.~Ruiz-Moreno, and M.~B. Thomas. 2011. Frontiers in climate
+  change-disease research. Trends in Ecology and Evolution 26:270--277.
+\bibAnnoteFile{rohr2011}
+
+\bibitem[{Rota et~al.(2018)Rota, Jabiol, Chauvet, and Lecerf}]{rota2018}
+Rota, T., J.~Jabiol, E.~Chauvet, and A.~Lecerf. 2018. Phenotypic determinants
+  of inter-individual variability of litter consumption rate in a detritivore
+  population. Oikos .
+\bibAnnoteFile{rota2018}
+
+\bibitem[{Rumpus and Kennedy(1974)}]{rumpus1974}
+Rumpus, A.~E. and C.~R. Kennedy. 1974. The effect of the acanthocephalan
+  \emph{Pomphorhynchus laevis} upon the respiration of its intermediate host,
+  \emph{Gammarus pulex}. Parasitology 68:271--284.
+\bibAnnoteFile{rumpus1974}
+
+\bibitem[{Sanford(1999)}]{sanford1999}
+Sanford, E. 1999. Regulation of keystone predation by small changes in ocean
+  temperature. Science 283:2095--2097.
+\bibAnnoteFile{sanford1999}
+
+\bibitem[{Sato et~al.(2012)Sato, Egusa, Fukushima, Oda, Ohte, Tokuchi,
+  Watanabe, Kanaiwa, Murakami, and Lafferty}]{sato2012}
+Sato, T., T.~Egusa, K.~Fukushima, T.~Oda, N.~Ohte, N.~Tokuchi, K.~Watanabe,
+  M.~Kanaiwa, I.~Murakami, and K.~D. Lafferty. 2012. Nematomorph parasites
+  indirectly alter the food web and ecosystem function of streams through
+  behavioural manipulation of their cricket hosts. Ecology Letters 15:786--793.
+\bibAnnoteFile{sato2012}
+
+\bibitem[{Sato et~al.(2011)Sato, Watanabe, Kanaiwa, Niizuma, Harada, and
+  Lafferty}]{sato2011}
+Sato, T., K.~Watanabe, M.~Kanaiwa, Y.~Niizuma, Y.~Harada, and K.~D. Lafferty.
+  2011. Nematomorph parasites drive energy flow through a riparian ecosystem.
+  Ecology 92:201--207.
+\bibAnnoteFile{sato2011}
+
+\bibitem[{Savage et~al.(2004)Savage, Gillooly, Brown, West, and
+  Charnov}]{savage2004}
+Savage, V.~M., J.~F. Gillooly, J.~H. Brown, G.~B. West, and E.~L. Charnov.
+  2004. Effects of body size and temperature on population growth. The American
+  Naturalist 163:429--441.
+\bibAnnoteFile{savage2004}
+
+\bibitem[{Schmidlin et~al.(2015)Schmidlin, von Fumetti, and
+  Nagel}]{schmidlin2015}
+Schmidlin, L., S.~von Fumetti, and P.~Nagel. 2015. Temperature effects on the
+  feeding and electron transport system ({ETS}) activity of \emph{Gammarus
+  fossarum}. Aquatic Ecology 49:71--80.
+\bibAnnoteFile{schmidlin2015}
+
+\bibitem[{Schmitz et~al.(1997)Schmitz, Beckerman, and O'Brien}]{schmitz1997}
+Schmitz, O.~J., A.~P. Beckerman, and K.~M. O'Brien. 1997. Behaviorally mediated
+  trophic cascades: effects of predation risk on food web interactions. Ecology
+  78:1388--1399.
+\bibAnnoteFile{schmitz1997}
+
+\bibitem[{Scott and Nokes(1984)}]{scott1984}
+Scott, M. and D.~J. Nokes. 1984. Temperature-dependent reproduction and
+  survival of \emph{Gyrodactylus bullatarudis} ({M}onogenea) on guppies
+  (\emph{Poecilia reticulata}). Parasitology 89:221--228.
+\bibAnnoteFile{scott1984}
+
+\bibitem[{Sentis et~al.(2013)Sentis, Hemptinne, and Brodeur}]{sentis2013}
+Sentis, A., J.-L. Hemptinne, and J.~Brodeur. 2013. Parsing handling time into
+  its components: implications for responses to a temperature gradient. Ecology
+  94:1675--1680.
+\bibAnnoteFile{sentis2013}
+
+\bibitem[{Sentis et~al.(2015)Sentis, Morisson, and Boukal}]{sentis2015}
+Sentis, A., J.~Morisson, and D.~S. Boukal. 2015. Thermal acclimation modulates
+  the impacts of temperature and enrichment on trophic interaction strengths
+  and population dynamics. Global Change Biology 21:3290--3298.
+\bibAnnoteFile{sentis2015}
+
+\bibitem[{Shaver et~al.(2000)Shaver, Canadell, Chapin, Gurevitch, Harte, Henry,
+  Ineson, Jonasson, Melillo, Pitelka, and Rustad}]{shaver2000}
+Shaver, G.~R., J.~Canadell, F.~S. Chapin, J.~Gurevitch, J.~Harte, G.~Henry,
+  P.~Ineson, S.~Jonasson, J.~Melillo, L.~Pitelka, and L.~Rustad. 2000. Global
+  warming and terrestrial ecosystems: a conceptual framework for analysis.
+  BioScience 50:871--882.
+\bibAnnoteFile{shaver2000}
+
+\bibitem[{Stenseth et~al.(2015)Stenseth, Durant, Fowler, Matthysen, Adriaensen,
+  Jonzen, Chan, Liu, De~Laet, Sheldon, Visser, and Dhondt}]{stenseth2015}
+Stenseth, N.~C., J.~M. Durant, M.~S. Fowler, E.~Matthysen, F.~Adriaensen,
+  N.~Jonzen, K.~S. Chan, H.~Liu, J.~De~Laet, B.~C. Sheldon, M.~E. Visser, and
+  A.~A. Dhondt. 2015. Testing for effects of climate change on competitive
+  relationships and coexistence between two bird species. Proceedings of the
+  Royal Society B: Biological Sciences 282:20141958.
+\bibAnnoteFile{stenseth2015}
+
+\bibitem[{Säterberg et~al.(2013)Säterberg, Sellman, and
+  Ebenman}]{saterberg2013}
+Säterberg, T., S.~Sellman, and B.~Ebenman. 2013. High frequency of functional
+  extinctions in ecological networks. Nature 499:468--470.
+\bibAnnoteFile{saterberg2013}
+
+\bibitem[{Strepparava et~al.(2017)Strepparava, Segner, Ros, Hartikainen,
+  Schmidt-Posthaus, and Wahli}]{strepparava2017}
+Strepparava, N., H.~Segner, A.~Ros, H.~Hartikainen, H.~Schmidt-Posthaus, and
+  T.~Wahli. 2017. Temperature-related parasite infection dynamics: the case of
+  proliferative kidney disease of brown trout. Parasitology Pages~1--11.
+\bibAnnoteFile{strepparava2017}
+
+\bibitem[{Studer et~al.(2010)Studer, Thieltges, and Poulin}]{studer2010}
+Studer, A., D.~W. Thieltges, and R.~Poulin. 2010. Parasites and global warming:
+  net effects of temperature on an intertidal host–parasite system. Marine
+  Ecology Progress Series 415:11--22.
+\bibAnnoteFile{studer2010}
+
+\bibitem[{Sukhdeo(2012)}]{sukhdeo2012}
+Sukhdeo, M.~V. 2012. Where are the parasites in food webs? Parasites and
+  Vectors 5:239.
+\bibAnnoteFile{sukhdeo2012}
+
+\bibitem[{Suraci et~al.(2016)Suraci, Clinchy, Dill, Roberts, and
+  Zanette}]{suraci2016}
+Suraci, J.~P., M.~Clinchy, L.~M. Dill, D.~Roberts, and L.~Y. Zanette. 2016.
+  Fear of large carnivores causes a trophic cascade. Nature Communications
+  7:10698.
+\bibAnnoteFile{suraci2016}
+
+\bibitem[{Sutcliffe(2000)}]{sutcliffe2000}
+Sutcliffe, D. 2000. Subspecies, morphs and clines in the amphipod
+  \emph{Gammarus duebeni} from fresh and saline waters. Freshwater Forum
+  13:60--75.
+\bibAnnoteFile{sutcliffe2000}
+
+\bibitem[{Thomas et~al.(2004)Thomas, Cameron, Green, Bakkenes, Beaumont,
+  Collingham, Erasmus, de~Siqueira, Grainger, Hannah, Hughes, Huntley, van
+  Jaarsveld, Midgley, Miles, Ortega-Huerta, Townsend~Peterson, Phillips, and
+  Williams}]{thomas2004}
+Thomas, C.~D., A.~Cameron, R.~E. Green, M.~Bakkenes, L.~J. Beaumont, Y.~C.
+  Collingham, B.~F.~N. Erasmus, M.~F. de~Siqueira, A.~Grainger, L.~Hannah,
+  L.~Hughes, B.~Huntley, A.~S. van Jaarsveld, G.~F. Midgley, L.~Miles, M.~A.
+  Ortega-Huerta, A.~Townsend~Peterson, O.~L. Phillips, and S.~E. Williams.
+  2004. Extinction risk from climate change. Nature 427:145--148.
+\bibAnnoteFile{thomas2004}
+
+\bibitem[{Thomas et~al.(2010)Thomas, Poulin, and Brodeur}]{thomas2010}
+Thomas, F., R.~Poulin, and J.~Brodeur. 2010. Host manipulation by parasites: a
+  multidimensional phenomenon. Oikos 119:1217--1223.
+\bibAnnoteFile{thomas2010}
+
+\bibitem[{Thomas et~al.(2002)Thomas, Schmidt‐Rhaesa, Martin, Manu, Durand,
+  and Renaud}]{thomas2002}
+Thomas, F., A.~Schmidt‐Rhaesa, G.~Martin, C.~Manu, P.~Durand, and F.~Renaud.
+  2002. Do hairworms ({N}ematomorpha) manipulate the water seeking behaviour of
+  their terrestrial hosts? Journal of Evolutionary Biology 15:356--361.
+\bibAnnoteFile{thomas2002}
+
+\bibitem[{Tierney et~al.(1993)Tierney, Huntingford, and Crompton}]{tierney1993}
+Tierney, J.~F., F.~A. Huntingford, and D.~W.~T. Crompton. 1993. The
+  relationship between infectivity of \emph{Schistocephalus solidus}
+  ({C}estoda) and anti-predator behaviour of its intermediate host, the
+  three-spined stickleback, \emph{Gasterosteus aculeatus}. Animal Behaviour
+  46:603--605.
+\bibAnnoteFile{tierney1993}
+
+\bibitem[{Tokeson and Holmes(1982)}]{tokeson1982}
+Tokeson, J. P.~E. and J.~C. Holmes. 1982. The effects of temperature and oxygen
+  on the development of \emph{Polymorphus marilis} ({A}canthocephala) in
+  \emph{Gammarus lacustris} ({A}mphipoda). Journal of Parasitology 68:112--119.
+\bibAnnoteFile{tokeson1982}
+
+\bibitem[{Tonin et~al.(2018)Tonin, Pozo, Monroy, Basaguren, Pérez, Gonçalves,
+  Pearson, Cardinale, and Boyero}]{tonin2018}
+Tonin, A.~M., J.~Pozo, S.~Monroy, A.~Basaguren, J.~Pérez, J.~F. Gonçalves,
+  R.~Pearson, B.~J. Cardinale, and L.~Boyero. 2018. Interactions between large
+  and small detritivores influence how biodiversity impacts litter
+  decomposition. Journal of Animal Ecology 87:1465--1474.
+\bibAnnoteFile{tonin2018}
+
+\bibitem[{Torchin and Mitchell(2004)}]{torchin2004}
+Torchin, M.~E. and C.~E. Mitchell. 2004. Parasites, pathogens, and invasions by
+  plants and animals. Frontiers in Ecology and the Environment 2:183--190.
+\bibAnnoteFile{torchin2004}
+
+\bibitem[{Toscano et~al.(2014)Toscano, Newsome, and Griffen}]{toscano2014}
+Toscano, B.~J., B.~Newsome, and B.~D. Griffen. 2014. Parasite modification of
+  predator functional response. Oecologia 175:345--352.
+\bibAnnoteFile{toscano2014}
+
+\bibitem[{Traill et~al.(2010)Traill, Lim, Sodhi, and Bradshaw}]{traill2010}
+Traill, L.~W., M.~L. Lim, N.~S. Sodhi, and C.~J. Bradshaw. 2010. Mechanisms
+  driving change: altered species interactions and ecosystem function through
+  global warming. Journal of Animal Ecology 79:937--947.
+\bibAnnoteFile{traill2010}
+
+\bibitem[{Ullah et~al.(2018)Ullah, Nagelkerken, Goldenberg, and
+  Fordham}]{ullah2018}
+Ullah, H., I.~Nagelkerken, S.~U. Goldenberg, and D.~A. Fordham. 2018. Climate
+  change could drive marine food web collapse through altered trophic flows and
+  cyanobacterial proliferation. PLoS Biology 16:e2003446.
+\bibAnnoteFile{ullah2018}
+
+\bibitem[{Uszko et~al.(2017)Uszko, Diehl, Englund, and Amarasekare}]{uszko2017}
+Uszko, W., S.~Diehl, G.~Englund, and P.~Amarasekare. 2017. Effects of warming
+  on predator-prey interactions - a resource-based approach and a theoretical
+  synthesis. Ecology Letters 20:513--523.
+\bibAnnoteFile{uszko2017}
+
+\bibitem[{Vadher et~al.(2015)Vadher, Stubbington, and Wood}]{vadher2015}
+Vadher, A.~N., R.~Stubbington, and P.~J. Wood. 2015. Fine sediment reduces
+  vertical migrations of \emph{Gammarus pulex} ({C}rustacea: {A}mphipoda) in
+  response to surface water loss. Hydrobiologia 753:61--71.
+\bibAnnoteFile{vadher2015}
+
+\bibitem[{Van~Veen et~al.(2008)Van~Veen, Muller, Pell, and
+  Godfray}]{vanveen2008}
+Van~Veen, F.~J., C.~B. Muller, J.~K. Pell, and H.~C. Godfray. 2008. Food web
+  structure of three guilds of natural enemies: predators, parasitoids and
+  pathogens of aphids. Journal of Animal Ecology 77:191--200.
+\bibAnnoteFile{vanveen2008}
+
+\bibitem[{VanCleave and Rausch(1951)}]{vancleave1951}
+VanCleave, H. and R.~L. Rausch. 1951. The acanthocephalan parasites of eider
+  ducks. Nature 192:185--186.
+\bibAnnoteFile{vancleave1951}
+
+\bibitem[{Vander~Vorste et~al.(2017)Vander~Vorste, Mermillod-Blondin, Hervant,
+  Mons, and Datry}]{vandervorste2017}
+Vander~Vorste, R., F.~Mermillod-Blondin, F.~Hervant, R.~Mons, and T.~Datry.
+  2017. \emph{Gammarus pulex} ({C}rustacea: {A}mphipoda) avoids increasing
+  water temperature and intraspecific competition through vertical migration
+  into the hyporheic zone: a mesocosm experiment. Aquatic Sciences 79:45--55.
+\bibAnnoteFile{vandervorste2017}
+
+\bibitem[{Vannatta and Minchella(2018)}]{vannatta2018}
+Vannatta, J.~T. and D.~J. Minchella. 2018. Parasites and their impact on
+  ecosystem nutrient cycling. Trends in Parasitology 34:452--455.
+\bibAnnoteFile{vannatta2018}
+
+\bibitem[{Vannote et~al.(1980)Vannote, Minshall, Cummins, Sedell, and
+  Cushing}]{vannote1980}
+Vannote, R.~L., G.~W. Minshall, K.~W. Cummins, J.~R. Sedell, and C.~E. Cushing.
+  1980. The river continuum concept. Canadian Journal of Fisheries and Aquatic
+  Sciences 37:130--137.
+\bibAnnoteFile{vannote1980}
+
+\bibitem[{Wallace et~al.(1997)Wallace, Eggert, Meyer, and
+  Webster}]{wallace1997}
+Wallace, J.~B., S.~L. Eggert, J.~L. Meyer, and J.~R. Webster. 1997. Multiple
+  trophic levels of a forest stream linked to terrestrial litter inputs.
+  Science 277:102--104.
+\bibAnnoteFile{wallace1997}
+
+\bibitem[{Walther et~al.(2002)Walther, Post, Convey, Menzel, Parmesan, Beebee,
+  Fromentin, Hoegh-Guldberg, and Bairlein}]{walther2002}
+Walther, G.-R., E.~Post, P.~Convey, A.~Menzel, C.~Parmesan, T.~J.~C. Beebee,
+  J.-M. Fromentin, O.~Hoegh-Guldberg, and F.~Bairlein. 2002. Ecological
+  responses to recent climate change. Nature 416:389--395.
+\bibAnnoteFile{walther2002}
+
+\bibitem[{Webster and Benfield(1986)}]{webster1986}
+Webster, J.~R. and E.~F. Benfield. 1986. Vascular plant breakdown in freshwater
+  ecosystems. Annual Review of Ecology and Systematics 17:567--594.
+\bibAnnoteFile{webster1986}
+
+\bibitem[{Wernberg et~al.(2012)Wernberg, Smale, and Thomsen}]{wernberg2012}
+Wernberg, T., D.~A. Smale, and M.~S. Thomsen. 2012. A decade of climate change
+  experiments on marine organisms: procedures, patterns and problems. Global
+  Change Biology 18:1491--1498.
+\bibAnnoteFile{wernberg2012}
+
+\bibitem[{Westram et~al.(2011)Westram, Baumgartner, Keller, and
+  Jokela}]{westram2011}
+Westram, A.~M., C.~Baumgartner, I.~Keller, and J.~Jokela. 2011. Are cryptic
+  host species also cryptic to parasites? host specificity and geographical
+  distribution of acanthocephalan parasites infecting freshwater
+  \emph{Gammarus}. Infection Genetics and Evolution 11:1083--1090.
+\bibAnnoteFile{westram2011}
+
+\bibitem[{Wohlgemuth et~al.(2017)Wohlgemuth, Solan, and
+  Godbold}]{wohlgemuth2017}
+Wohlgemuth, D., M.~Solan, and J.~A. Godbold. 2017. Species contributions to
+  ecosystem process and function can be population dependent and modified by
+  biotic and abiotic setting. Proceedings of the Royal Society B: Biological
+  Sciences 284.
+\bibAnnoteFile{wohlgemuth2017}
+
+\bibitem[{Wood et~al.(2007)Wood, Byers, Cottingham, Altman, Donahue, and
+  Blakeslee}]{wood2007}
+Wood, C.~L., J.~E. Byers, K.~L. Cottingham, I.~Altman, M.~J. Donahue, and A.~M.
+  Blakeslee. 2007. Parasites alter community structure. Proceedings of the
+  National Academy of Sciences of the United States of America 104:9335--9359.
+\bibAnnoteFile{wood2007}
+
+\bibitem[{Wood and Johnson(2015)}]{wood2015}
+Wood, C.~L. and P.~T. Johnson. 2015. A world without parasites: exploring the
+  hidden ecology of infection. Frontiers in Ecology and the Environment
+  13:425--434.
+\bibAnnoteFile{wood2015}
+
+\bibitem[{Wood and Wood(2016)}]{wood2016}
+Wood, S. and M.~S. Wood. 2016. Package ‘mgcv’ .
+\bibAnnoteFile{wood2016}
+
+\bibitem[{Woodward et~al.(2010)Woodward, Perkins, and Brown}]{woodward2010}
+Woodward, G., D.~M. Perkins, and L.~E. Brown. 2010. Climate change and
+  freshwater ecosystems: impacts across multiple levels of organization.
+  Philosophical Transactions of the Royal Society B: Biological Sciences
+  365:2093--2106.
+\bibAnnoteFile{woodward2010}
+
+\bibitem[{Yan and Stevens(1995)}]{yan1995}
+Yan, G. and L.~Stevens. 1995. Selection by parasites on components of fitness
+  in tribolium beetles: the effect of intraspecific competition. The American
+  Naturalist 146:795--813.
+\bibAnnoteFile{yan1995}
+
+\bibitem[{Zittel et~al.(2018)Zittel, Grabner, Wlecklik, Sures, Leese,
+  Taraschewski, and Weigand}]{zittel2018}
+Zittel, M., D.~Grabner, A.~Wlecklik, B.~Sures, F.~Leese, H.~Taraschewski, and
+  A.~M. Weigand. 2018. Cryptic species and their utilization of indigenous and
+  non-indigenous intermediate hosts in the acanthocephalan \emph{Polymorphus
+  minutus sensu lato} ({P}olymorphidae). Parasitology Pages~1--9.
+\bibAnnoteFile{zittel2018}
+
+\end{thebibliography}
